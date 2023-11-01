@@ -1,0 +1,112 @@
+[
+    {
+        "course_code": "MED MS 102",
+        "course_title": "Ambulatory Med.",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 121",
+        "course_title": "Doctoring 1",
+        "description": "Doctoring 1 is a year-long course in the first year where students learn foundational doctoring skills. The course is structured in case-based small groups that allow for clinical interviews with a faculty member or a standardized patient so that students can learn and practice communication skills and data gathering, doctor-patient relationship building, physical examinations, clinical reasoning, case presentation and documentation skills. Further, these cases will promote integration of foundational and social science topics students are learning in their other courses and provide an opportunity for self-directed learning. At the end of each session, students will identify learning needs related to the case, and each will select a topic to research. The following week, students will teach their classmates about the topic they researched to further the group's understanding of the case. Students will have clinical placements in the hospital during the fall, with a longitudinal preceptor in the spring. During their clinical placements, students will apply and practice the content they have learned in their small groups through interviewing patients and performing physical exams. Students will learn team-building skills and will reflect on topics surrounding professionalism, ethics, and professional identify formation. This course is a merger of the previously offered Integrated Problems 1 and Introduction to Clinical Medicine 1 courses and is designed to deliberately integrate clinical reasoning and clinical skills."
+    },
+    {
+        "course_code": "MED MS 135",
+        "course_title": "Pisces 1-Key Themes, Found. 1,Found 2",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 136",
+        "course_title": "Pisces 2-Foundations 3, Genomic Medicine, Cardiovascular",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 137",
+        "course_title": "Learn, Experience, Advocate, Discover & Serve 1",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 147",
+        "course_title": "Pisces 3-Pulmonary & Renal",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 148",
+        "course_title": "Pisces 4-Endocrinology & Reproduction & Hematology",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 227",
+        "course_title": "Doctoring 2",
+        "description": "Doctoring 2 is a year-long course in the second year in which students build off their experience in Doctoring 1. The course is structured in case-based small groups that allow for clinical interviews with a faculty member or a standardized patient so students can learn and practice advanced communication skills and hypothesis-driven data gathering and physical examinations, including advanced clinical exam maneuvers. There will be a strong emphasis on clinical reasoning and both identifying and mitigating cognitive biases. Students will refine and expand their case presentation and note-writing skills and will learn to use the electronic medical record. Cases will promote integration of foundational and social science topics and provide an opportunity for self-directed learning. At the end of each session, students will identify learning needs related to the case and each will take a topic to research. The following week, students will teach their classmate about the topic they researched to further the group's understanding of the case. Students will have a variety of additional simulation sessions and standardized patient interviews to further their skills. They will continue their clinical placements with a longitudinal preceptor in the fall and will return to the hospital during the winter/spring to further advance their clinical skills in preparation for their clinical clerkships. Students will further their teamwork skills and competence in building a therapeutic alliance with patients and will reflect on topics surrounding professionalism, ethics, and professional identify formation. This course is a merger of the previously offered Integrated Problems 2 and Introduction to Clinical Medicine 2 courses and is designed to deliberately integrate clinical reasoning and clinical skills."
+    },
+    {
+        "course_code": "MED MS 228",
+        "course_title": "C&P Clerkships",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 230",
+        "course_title": "Pisces 5-Key Themes, Neurology  & Psychiatry",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 231",
+        "course_title": "Pisces 6-GI&Nutrition,Derm.,Rheum.,Musculoskeletal",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 232",
+        "course_title": "Pisces 7A-Integration Weeks",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 233",
+        "course_title": "Learn, Experience, Advocate, Discover & Serve 2",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 234",
+        "course_title": "Pisces 7B-Integration Weeks",
+        "description": null
+    },
+    {
+        "course_code": "MED MS 310",
+        "course_title": "Medicine Clerkship (8 weeks)",
+        "description": "The Medicine Clerkship is an 8-week experience designed to develop your ability to function as a caring, increasingly independent clinician while supervised on a multi-professional team. During the clerkship, you will learn clinical medicine while working side-by-side with teams of residents and/or faculty providing care to a cohort of inpatients. As your knowledge and skills grow, you will earn increasing patient care responsibility. This direct patient care experience is complemented by a unique enrichment in which you also work in small groups with a clerkship director and hone essential clinical skills (including intermediate-level communications skills, physical diagnosis, and clinical reasoning). Your education is supplemented with conferences that focus on core topics. The clerkship is divided into two mini-blocks of 4 weeks each, and most students spend time at 1 or 2 of our clinical sites. The goal of the clerkship is to develop someone who we would want to care for our family members; a professional, highly caring clinician who is increasingly independent and knowledgeable, and who is a strong team member."
+    },
+    {
+        "course_code": "MED MS 311",
+        "course_title": "Surgery Clerkship (8 weeks)",
+        "description": "The Surgery Clerkship provides instruction in the basic knowledge and skills specific to the field of general surgery, including emergent and non-emergent intraabdominal disease, traumatic injury, and surgically treated malignancies. Students will also have the opportunity to learn about a selection of illnesses treated by surgical subspecialists, including diseases of the head and neck, the genitourinary system, the vascular system, thorax, and the musculoskeletal system, as well as anesthesiology. During the time on the surgical service, you will be treated as an integral part of the surgical team, which includes attending surgeons, residents, interns, and advanced practice providers (physician assistants/nurse practitioners), and will have the opportunity to directly impact patient care."
+    },
+    {
+        "course_code": "MED MS 313",
+        "course_title": "Pediatric Clerkship (6 weeks)",
+        "description": "Pediatrics is a complex and exciting field of medicine, integrating knowledge from across the first two years of medical school into the care of patients from birth to age 22. Content ranges from genetics and embryology to caring for adolescents with more \"adult\" pathology. Students will hone their clinical and communication skills, with an emphasis on relationship building with patients & their families, and adapting both physical exam techniques and communication to age-appropriate and knowledge appropriate levels."
+    },
+    {
+        "course_code": "MED MS 315",
+        "course_title": "Family Medicine Clerkship (6 weeks)",
+        "description": "The purpose of the third-year clerkship in Family Medicine is to provide instruction in the knowledge, attitudes and skills of Family Medicine. This foundation in the basic tenets of Family Medicine will prepare the student for their future role as a physician, in any specialty the student pursues. The clerkship will demonstrate the importance of the family physician in providing continuous, comprehensive care to the patient, and will teach the importance of the doctor-patient relationship, interviewing skills, appropriate physical exam, and clinical problem-solving in caring for patients. Additionally, the clerkship will provide exposure to Family Medicine as a specialty choice for third year students and support those students considering Family Medicine as a career."
+    },
+    {
+        "course_code": "MED MS 316",
+        "course_title": "Neurology Clerkship (4 weeks)",
+        "description": "The purpose of the third-year clerkship in Neurology is to provide the basics of neurological disease seen in inpatient and outpatient neurology settings. This Clerkship focuses in immersing the student to Neurology and prepare them for any encounter of Neurological disease in the student's future career in any chosen specialty. The clerkship will teach the basics of taking a neurological history and performing an examination with the goal of localizing the lesion in the nervous system. It will also teach how to synthesize information from history and physical in order to produce a differential diagnosis and treatment plan. You will be exposed to the outpatient clinic where you will encounter chronic disorders and to the inpatient where you will be involved in treatment of acute neurological disorders. Students will also learn the indications and contraindications for performing LPs and know the general approach for performing LPs. In addition, the clerkship offers support to those considering Neurology as a future career."
+    },
+    {
+        "course_code": "MED MS 404",
+        "course_title": "Surgical Subspecialties",
+        "description": "MED MS 404.1: All fourth-year medical students, as part of the Selectives, will have a choice to rotate in the Surgical Subspecialties. The Surgical Education office offers a four-week rotation consisting of two subspecialty rotations (two weeks each). Students will have the opportunity to rank their preferences for the subspecialties, limited by capacity. Students' choices may not be guaranteed. Options include: Anesthesia (BMC or VA), Neurosurgery (BMC), Thoracic (BMC), Ophthalmology (BMC or VA), Orthopedics (BMC or VA), Otolaryngology (BMC), Plastic Surgery (BMC), and Urology (BMC or VA). Of note, Fourth Year Medical students who rotated in Anesthesia during the Surgery Clerkship may not rotate in Anesthesia again as part of the Surgical Subspecialties."
+    },
+    {
+        "course_code": "MED MS 410",
+        "course_title": "Geriatrics Clerkship (4 weeks)",
+        "description": "This four-week clerkship provides students with the basic knowledge and skills to participate in the care of older adults. Students will learn about common geriatric syndromes, understand, and use functional assessment in the evaluation of older adults, work with an interdisciplinary team to develop care plans, learn about home care and what is possible to provide medically for older patients living in the community. Students will participate in clinic, nursing home visits and home visits with clinicians to provide medical care for older patients. In addition, students will complete on-line assignments, attend lectures, prepare a narrative focused on My Life My Story (MLMS), complete a Social Determinants of Health (SDOH) worksheet, create an end of life (EOL) project, and prepare an evidence-based medicine (EBM) assignment."
+    },
+    {
+        "course_code": "MED MS 412",
+        "course_title": "Radiology Clerkship Selective",
+        "description": "Diagnostic imaging with emphasis on understanding strengths, weaknesses, appropriate descriptive terminology, organized approach to analysis of findings, and most appropriate use of various imaging modalities. Significant emphasis is also placed on appropriate use of image-guided diagnosis and treatment, the interpretation of radiologic reports, and communication, both with patients and with radiologists. Students have several opportunities to present findings in formal and informal conference settings, to gain experience in clear and logical use of the language of medicine and of imaging."
+    }
+]

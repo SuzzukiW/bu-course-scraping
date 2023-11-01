@@ -1,0 +1,231 @@
+[
+    {
+        "course_code": "OTP AS 101",
+        "course_title": "Leadership Laboratory (taken each semester)",
+        "description": "Augments the AFROTC academic curriculum by providing prospective Air Force officers the opportunities and feedback needed to develop the leadership, managerial, and supervisory skills required of successful Air Force officers. Applications include Air Force customs and courtesies, drill and ceremonies, problem solving, communications, and learning about career opportunities available to commissioned officers. Instruction is conducted within the framework of an organized cadet corps with a progression of experiences designed to develop leadership potential."
+    },
+    {
+        "course_code": "OTP AS 110",
+        "course_title": "Heritage and Values of the U.S. Air Force",
+        "description": "A survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, historical figures, and organizations of the Air Force."
+    },
+    {
+        "course_code": "OTP AS 120",
+        "course_title": "Heritage and Values of the U.S. Air Force",
+        "description": "Continues study of OTP AS 110."
+    },
+    {
+        "course_code": "OTP AS 212",
+        "course_title": "Team and Leadership Fundamentals",
+        "description": "Focuses on laying the foundation for teams and leadership. The topics include skills that will allow cadets to improve their leadership on a personal level and within a team. The course will prepare cadets for their field training experience where they will be able to put the concepts learned into practice. The purpose is to instill a leadership mindset and to motivate sophomore students to transition from AFROTC cadet to AFROTC officer candidate."
+    },
+    {
+        "course_code": "OTP AS 222",
+        "course_title": "Team and Leadership Fundamentals",
+        "description": "Continues study of OTP AS 212."
+    },
+    {
+        "course_code": "OTP AS 310",
+        "course_title": "Leading People and Effective Communication",
+        "description": "Undergraduate Prerequisites: entry in POC. Teaches cadets advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skills and communication. Topics covered include critical thinking, change management, ethics, managing diversity, and culture training.",
+        "prerequisites": "entry in POC."
+    },
+    {
+        "course_code": "OTP AS 320",
+        "course_title": "Leading People and Effective Communication",
+        "description": "Continues OTP AS 310 with special emphasis on the topics of mentoring, providing and receiving feedback, creating a vision, establishing expectations, and setting an organizational climate."
+    },
+    {
+        "course_code": "OTP AS 410",
+        "course_title": "National Security Affairs",
+        "description": "Study of the military's role as an institution in a democratic society. Topics include civil-military interaction and the military as a profession. Emphasis on developing communication skills through student presentations."
+    },
+    {
+        "course_code": "OTP AS 420",
+        "course_title": "Preparation for Active Duty",
+        "description": "\"Preparation for Active Duty\" is a survey course designed to give Senior AFROTC cadets an overview of the subject material. Cadets are expected to emerge with an in-depth knowledge of all the topics covered in this course. While some areas are covered in detail, many others are covered more broadly. Overall AS420 is a vehicle to help you become Air Force officers and to facilitate your transition to active duty."
+    },
+    {
+        "course_code": "OTP MS 101",
+        "course_title": "Introduction to the Army and Critical Thinking I",
+        "description": "Introduces cadets to the personal challenges and competencies that are critical for effective leadership. Cadets learn how the personal development of life skills such as critical thinking, time management, goal setting, stress management, and comprehensive fitness relate to leadership and the Army profession. The focus is on developing basic knowledge and comprehension of Army leadership dimensions while gaining a big-picture understanding of the Reserve Officer Training Corps (ROTC) program, its purpose in the Army, and its advantages for the student."
+    },
+    {
+        "course_code": "OTP MS 102",
+        "course_title": "Introduction to the Army and Critical Thinking II",
+        "description": "MSL 102 introduces cadets to the professional challenges and competencies that are needed for effective execution of the profession of arms and Army communication. Through this course, cadets will learn how Army ethics and values shape their army and the specific ways that these ethics are inculcated into Army culture. Cadets will explore the Seven Army Values and the Warrior Ethos, investigate the Profession of Arms and Army leadership as well as an overview of the Army, and gain practical experience using critical communication skills."
+    },
+    {
+        "course_code": "OTP MS 103",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 104",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 201",
+        "course_title": "Innovative Team Leadership",
+        "description": "Explores the dimensions of creative and innovative tactical leadership strategies and styles by examining team dynamics and two historical leadership theories that form the basis of the Army Leadership Requirements Model (trait and behavior theories). Cadets practice aspects of personal motivation and team building in the context of planning, executing, and assessing team exercises and participating in leadership labs. Focus is on continued development of the knowledge of leadership values and attributes through an understanding of Army rank, structure and duties, and basic aspects of land navigation and squad tactics. Case studies provide tangible context for learning the Soldier's Creed and Warrior Ethos as they apply in the Contemporary Operating Environment (COE)."
+    },
+    {
+        "course_code": "OTP MS 202",
+        "course_title": "Foundations of Tactical Leadership",
+        "description": "Examines the challenges of leading tactical teams in the complex Contemporary Operating Environment (COE). Highlights dimensions of terrain analysis, patrolling, and operation orders. Further study of the theoretical basis of the Army Leadership Requirements Model explores the dynamics of adaptive leadership in the context of military operations. Provides a smooth transition into MS 301. Cadets develop greater self-awareness as they assess their own leadership styles and practice communication and team-building skills. COE case studies give insight into the importance and practice of teamwork and tactics in real-world scenarios."
+    },
+    {
+        "course_code": "OTP MS 203",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 204",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 301",
+        "course_title": "Training Management and the Warfighting Functions",
+        "description": "This is an academically challenging course where cadets will study, practice, and apply the fundamentals of Army Leadership, Officership, Army Values and Ethics, Personal Development, and small unit tactics at the platoon level. At the conclusion of this course, cadets will be capable of planning, coordinating, navigating, motivating and leading a squad and platoon in the execution of a mission during a classroom Practical Exercise (PE), a Leadership Lab, or during a Leader Training Exercise (LTX)."
+    },
+    {
+        "course_code": "OTP MS 302",
+        "course_title": "Applied Leadership in Small Unit Operations",
+        "description": "MSL 302 builds on the lessons learned and leadership attributes gained and developed during MSL 301. This is an academically challenging course where Cadets will study, practice, and apply the fundamentals of Army Leadership, Officership, Army Values and Ethics, Personal Development, and small unit tactics at the platoon level. At the conclusion of this course, Cadets will be capable of planning, coordinating, navigating, motivating and leading a squad and platoon in the execution of a mission during a classroom PE, a Leadership Lab, or during a Leader Training Exercise (LTX)."
+    },
+    {
+        "course_code": "OTP MS 303",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 304",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 401",
+        "course_title": "Mission Command and the Army Profession",
+        "description": "OTP MSL 401: Military Science and Leadership (MSL) 401 Mission Command and the Army Profession MSL 401 explores the dynamics of leading in the complex situations of current military operations. Cadets will examine differences in customs and courtesies, military law, principles of war, and rules of engagement in the face of international terrorism. Cadets also explore aspects of interacting with non-government organizations, civilians on the battlefield, the decision-making processes and host nation support. The course places significant emphasis on preparing cadets for Basic Officer Leadership Course-B and their first unit of assignment. It uses mission command case studies and scenarios to prepare Cadets to face the complex ethical demands of serving as a commissioned officer in the United States Army."
+    },
+    {
+        "course_code": "OTP MS 402",
+        "course_title": "Mission Command and the Company Grade Officer",
+        "description": "MSL 402 has cadets explore the dynamics of leading in complex situations during Unified Land Operations; examine the Art of Command; learn how to properly communicate with and develop Non-Commissioned Officers and Soldiers; discuss situations on how ethical decisions impact personnel and the unit mission; and learn how Comprehensive Soldier Fitness (CSF), Being Ready and Resilient (R2C), and Individual and Family Readiness can assist leaders in preparing Soldiers and their Families on reducing and managing stress during times of uncertainty. The course places significant emphasis on preparing cadets for Basic Officer Leadership Course-B and their first unit of assignment. It uses mission command case studies and scenarios to prepare cadets to face the complex ethical demands of serving as a commissioned officer in the United States Army."
+    },
+    {
+        "course_code": "OTP MS 403",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 404",
+        "course_title": "Leadership Lab",
+        "description": null
+    },
+    {
+        "course_code": "OTP MS 501",
+        "course_title": "American Military History",
+        "description": "Goal of this course is to produce leaders who use critical thinking grounded in military history as the basis for decision making. Course provides a foundation in Army and branch heritage, teaches the history of the profession of arms and introduces historical method/analysis and application of contextual thinking. Program objectives are to develop and sustain historically minded soldiers and civilians capable of bringing historical perspective to bear on contemporary military problems. 1 cr. 1st sem."
+    },
+    {
+        "course_code": "OTP MS 502",
+        "course_title": "Military History",
+        "description": "This course is offered in the Spring Semester and is a continuation of MS 501. Requires departmental approval."
+    },
+    {
+        "course_code": "OTP NS 103",
+        "course_title": "Introduction to Naval Science",
+        "description": "General introduction to seapower and the naval service, covering an overview of the organization and historical development of the U.S. Navy and its tactics and equipment. Covers the basic tenets of naval courtesy and customs; core values of honor, courage, and commitment; discipline; leadership; and shipboard organization; as well as the major challenges facing today's naval officer. FALL Semester"
+    },
+    {
+        "course_code": "OTP NS 104",
+        "course_title": "Seapower & Maritime Affairs",
+        "description": "A discussion seminar taken in conjunction with the History of War (HI284). A study of the US Navy from the American Revolution to the modern era. Traces the US Navy's rise from a coastal defense force into the world's premier naval power. Major themes include wars, events, people, technology, strategy, tactics and diplomacy that shaped naval history and America's role in the world. FALL Semester."
+    },
+    {
+        "course_code": "OTP NS 111",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required for all Naval Science Freshmen. FALL Semester"
+    },
+    {
+        "course_code": "OTP NS 112",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required for all Naval Science Freshmen. SPRING SEMESTER"
+    },
+    {
+        "course_code": "OTP NS 203",
+        "course_title": "Leadership & Management",
+        "description": "An introduction to the basic concepts of leadership, ethics and resource management. Leadership and management challenges are explored in context of the interdependence between leaders, followers and situations through historical case studies and examples in the civilian workplace. Labs provide comprehensive study of organizational behavior and management with special emphasis on situational leadership in the military. FALL Semester. 3cr."
+    },
+    {
+        "course_code": "OTP NS 204",
+        "course_title": "Navigation",
+        "description": "This course description is currently under construction."
+    },
+    {
+        "course_code": "OTP NS 211",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required by all Naval Science Sophomores - FALL SEMESTER"
+    },
+    {
+        "course_code": "OTP NS 212",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required by all Naval Science Sophomores - SPRING SEMESTER"
+    },
+    {
+        "course_code": "OTP NS 303",
+        "course_title": "Naval Ships Systems, Engineering",
+        "description": "Undergraduate Prerequisites: Calculus I & II Fundamentals of applied shipboard engineering principles and systems. Topics: thermodynamics, electrical theory, fundamentals of nuclear power, propulsion systems, electrical distribution, ship stability and control and damage control. FALL Semester.",
+        "prerequisites": "Calculus I & II"
+    },
+    {
+        "course_code": "OTP NS 304",
+        "course_title": "Naval Ships Systems, Weapons",
+        "description": "Fundamental theory and basic operation of naval weapons systems. Topics: fundamentals of electromagnetic waves, radar, acoustic waves, and underwater propagation; electronic warfare, undersea warfare, fire control systems, weapon architecture, and guidance systems. SPRING Semester"
+    },
+    {
+        "course_code": "OTP NS 311",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required of Naval Science JUNIORS - FALL SEMESTER"
+    },
+    {
+        "course_code": "OTP NS 312",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required of all Naval Science JUNIORS - SPRING Semester"
+    },
+    {
+        "course_code": "OTP NS 330",
+        "course_title": "Evolution of Warfare",
+        "description": "Traces development of warfare from dawn of recorded history to present, focusing on the impact of major military theorists, strategists, tacticians, and technological developments. Seeks to understand the relationships between military training, weaponry, strategies and tactics, and the societies and cultures that produce and then are defended by those military structures. By examining the association between a society and its military, students acquire basic sense of strategy, develop an understanding of military alternatives, and see the impact of historical precedents on military thoughts and actions. SPRING Semester."
+    },
+    {
+        "course_code": "OTP NS 403",
+        "course_title": "Naval Operations & Seamanship",
+        "description": "Undergraduate Prerequisites: OTP NS 204 A capstone course for senior midshipmen in advanced navigation, communications, naval operations, and naval warfare. Students learn through simulation in a computer classroom. Prereq: NS202 FALL Semester",
+        "prerequisites": "OTP NS 204"
+    },
+    {
+        "course_code": "OTP NS 404",
+        "course_title": "Leadership & Ethics",
+        "description": "Undergraduate Prerequisites: OTP NS 203 Analyzes ethical decision - making and leadership principles. Students read and discuss texts written by such philosophers as Aristotle, Kant and Mill to gain familiarity with the realm of ethical theory. Students then move on to case studies in which they apply these theories to resolve moral dilemmas. Provides a basic background in the duties and responsibilities of a junior division and watch officer; strong emphasis on the junior officer's responsibilities in training, counseling, and career development. Student familiarization with equal opportunity and drug/alcohol rehabilitation programs. Principles of leadership reinforced through leadership case studies. SPRING Semester.",
+        "prerequisites": "OTP NS 203"
+    },
+    {
+        "course_code": "OTP NS 410",
+        "course_title": "Fundamentals of Maneuver Warfare",
+        "description": "The purpose of this course is to introduce the student to the United States Marine Corps' historical operating concepts as well as the employment of current doctrine known as Maneuver Warfare. The class utilizes both historical examples from past military campaigns and also the current Marine Corps doctrine and philosophy to increase the student's critical thinking and decision making ability. The intent of the course is to create future leaders capable of identifying and solving complex problems in future operating environments across the spectrum of conflict. Module one outlines the fundamental concepts and themes of Maneuver Warfare. Module two articulates and describes the Marine Corps current warfighting doctrine. Module three describes the Marine Corps future operating concept and advancement of warfighting doctrine."
+    },
+    {
+        "course_code": "OTP NS 411",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required of all Naval Science Seniors - FALL Semester"
+    },
+    {
+        "course_code": "OTP NS 412",
+        "course_title": "Naval Leadership Lab",
+        "description": "Required of all Naval Science Seniors - SPRING Semester"
+    }
+]

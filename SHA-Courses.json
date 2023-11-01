@@ -1,0 +1,420 @@
+[
+    {
+        "course_code": "SHA HF 100",
+        "course_title": "Introduction to Hospitality",
+        "description": "This introductory course is open to all BU students and is the prerequisite for School of Hospitality courses. Students gain an historical perspective and identify current events and trends in lodging, restaurants and event management. It provides an overview of the global hospitality/tourism industry including the critical elements of managing services. The Boston market, multimedia assignments and team-based projects are integrated into the learning environment. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Digital/Multimedia Expression, Teamwork/Collaboration. 4 cr. Offered in the Fall and Spring. BU Hub Learn More Historical ConsciousnessDigital/Multimedia ExpressionTeamwork/Collaboration",
+        "BU_Hub": [
+            "Historical Consciousness",
+            "Digital/Multimedia Expression",
+            "Teamwork/Collaboration"
+        ]
+    },
+    {
+        "course_code": "SHA HF 120",
+        "course_title": "Principles of Food Production Management",
+        "description": "Undergraduate Prerequisites: SHA HF 100 HF 120 is a laboratory based practical course. It will provide students with an overview of food service operations as they relate to commercial food production. Emphasis throughout the course is placed on food science, food costing, calculations, food purchasing, and product identification. Students will perform practical culinary skills to produce menu items. Additionally, proper use of tools and equipment will be featured along with testing and evaluation of menu items. Additional $150 for lab supplies. 2 credits, offered Fall & Spring.",
+        "prerequisites": "SHA HF 100"
+    },
+    {
+        "course_code": "SHA HF 140",
+        "course_title": "Hospitality Field Experience I",
+        "description": "400 hours of supervised internship experience. Students are required to have their HF140 activities pre-approved by SHA Career Services prior to completing work/activities. 0 cr., Offered Fall & Spring."
+    },
+    {
+        "course_code": "SHA HF 150",
+        "course_title": "Experience Management",
+        "description": "Central to the hospitality industry is the provision of memorable, high-quality customer experiences across digital and physical touchpoints. This allows hospitality and other service organizations to turn satisfied customers into brand evangelists. This course introduces the emerging domain of customer experience management (CEM)--the discipline of understanding and managing customer interactions with the organization to improve satisfaction, loyalty, and advocacy. CEM is a unique domain that draws on practices from the fields of marketing, marketing research, technology and data science, and operations and service science, with the aim of understanding and improving customer experiences with the organization. The course will cover the definitions and basic requirements of customer experience management, and also provide detailed frameworks and tools and techniques to allow students to gain proficiency in the language and practice of customer experience design and improvement. Effective Fall 2023, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Social Inquiry II , Creativity/Innovation. BU Hub Learn More Digital/Multimedia ExpressionSocial Inquiry IICreativity/Innovation",
+        "BU_Hub": [
+            "Digital/Multimedia Expression",
+            "Social Inquiry II",
+            "Creativity/Innovation"
+        ]
+    },
+    {
+        "course_code": "SHA HF 210",
+        "course_title": "Financial Accounting for the Hospitality Industry",
+        "description": "Undergraduate Prerequisites: SHA HF 100, CAS MA 119 An introductory course in Accounting designed to provide students with a basic understanding of the language of business. This course examines the basic accounting processes of recording, classifying, and summarizing business transactions. It also provides an opportunity to study elements of financial statements such as assets, liabilities, equity, revenue, and expenses. 4 credits, offered Fall & Spring.",
+        "prerequisites": "SHA HF 100, CAS MA 119"
+    },
+    {
+        "course_code": "SHA HF 220",
+        "course_title": "Food & Beverage Management",
+        "description": "Undergraduate Prerequisites: SHA HF 100 Undergraduate Corequisites: SHA HF 260. Note: Students must take SHA HF 220 and HF 260 concurrently in the same section(e.g. A1/A1). Contact your academic advisor withany questions. This courses focuses on principal operating problems facing managers in the restaurant industry. Topics such as concept development and entrepreneurship, menu analysis, cost control, operational analysis, and customer service processes are addressed. 4 credits, offered Fall & Spring.",
+        "prerequisites": "SHA HF 100"
+    },
+    {
+        "course_code": "SHA HF 231",
+        "course_title": "Talent and People Strategies",
+        "description": "Undergraduate Prerequisites: SHA HF 100 This course provides an introduction to the theory and practice of human resource management, especially for consumer services such as hotels, restaurants, tourism and events. Explores contemporary human resource management relative to the hospitality industry, with emphasis on planning, job analysis, recruitment, selection, hiring, placement, and ethnic diversity in the workplace. Specifically, the course examines employee motivation, leadership, training, team building, employee performance and retention. Management philosophies of work compensation, discipline, and labor relations are discussed as they affect current hospitality industry strategies to attract and retain a quality workforce. Effective Fall 2018, this course fulfills a single unit in the following BU Hub area: Global Citizenship and Intercultural Literacy. 4 credits. Offered Fall & Spring. BU Hub Learn More Global Citizenship and Intercultural Literacy",
+        "prerequisites": "SHA HF 100",
+        "BU_Hub": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "course_code": "SHA HF 240",
+        "course_title": "Hospitality Field Experience II",
+        "description": "Undergraduate Prerequisites: SHA HF 100 and SHA HF 140 400 hours of supervised internship experience. Students are required to have their HF240 activities pre-approved by SHA Career Services prior to completing work/activities 0 credits, Offered Fall & Spring.",
+        "prerequisites": "SHA HF 100 and SHA HF 140"
+    },
+    {
+        "course_code": "SHA HF 250",
+        "course_title": "Hospitality Law",
+        "description": "Undergraduate Prerequisites: SHA HF 100 A look at the laws that apply to hotels, food-service establishments, and the travel industry. Consideration of innkeepers' duties to guests. Concepts of liability and negligence, contract and property practices, and miscellaneous statutes applicable to the hospitality industry. 2 credits, offered Fall & Spring.",
+        "prerequisites": "SHA HF 100"
+    },
+    {
+        "course_code": "SHA HF 260",
+        "course_title": "Hospitality Marketing Principles",
+        "description": "Undergraduate Prerequisites: SHA HF 100 Undergraduate Corequisites: SHA HF 220. Note: Students must take SHA HF 220 and HF 260 concurrently in the same section(e.g. A1/A1). Contact your academic advisor withany questions. This course provides an understanding of the role & function of marketing in the hospitality industry. It offers an overview of generic principles of marketing for any industry (including consumer products & manufacturing) and introduces specialized principles for the hospitality industry. For all topics, it uses examples taken primarily from the hospitality industry. Subjects covered include marketing strategy, marketing research, consumer behavior, segmentation, positioning, product and concept development, pricing, distribution, & marketing communications (including advertising & PR). Effective Fall 2018, this course fulfills a single unit in the following BU Hub area: Global Citizenship and Intercultural Literacy. 4 cr. Offered Fall and Spring. BU Hub Learn More Global Citizenship and Intercultural Literacy",
+        "prerequisites": "SHA HF 100",
+        "BU_Hub": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "course_code": "SHA HF 270",
+        "course_title": "Accommodation Management",
+        "description": "Undergraduate Prerequisites: SHA HF 100 This course provides an introduction to the operations and technology of the room division within hotel properties. Explores theoretical principles and operational tactics for management of front office, reservations, housekeeping and engineering functions. 4 credits, offered Fall & Spring.",
+        "prerequisites": "SHA HF 100"
+    },
+    {
+        "course_code": "SHA HF 295",
+        "course_title": "Private Club Management",
+        "description": "Undergraduate Prerequisites: SHA HF 100 Provide students with an introduction to the hospitality management specialization of Club Management. Lecture topics will include: what clubs are, organizational structure of clubs, service in the club environment, profit or non-profit, and professionals in club management. There will also be guest speakers, classroom case studies and field trips. 2 cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 100"
+    },
+    {
+        "course_code": "SHA HF 307",
+        "course_title": "Hospitality Entrepreneurship",
+        "description": "Undergraduate Prerequisites: SHA HF 220, SHA HF 260, SHA HF 310 This course is intended to be a capstone experience for students seeking to understand hospitality entrepreneurship and innovation as a professional business system. Student teams will create, develop and design a concise Pro Forma Business Plan for a start-up non-profit or profit-driven hospitality enterprise. At the end of the semester teams will make a competitive presentation integrating the principles and skills mastered in previous coursework to a panel of successful hospitality entrepreneurs. 4cr. Offered Fall.",
+        "prerequisites": "SHA HF 220, SHA HF 260, SHA HF 310"
+    },
+    {
+        "course_code": "SHA HF 310",
+        "course_title": "Managerial Accounting for the Hospitality Industry",
+        "description": "Undergraduate Prerequisites: CAS MA 119, SHA HF 210 or QST AC 221, SHA HF 220, and SHA HF 270 After a review of financial-accounting principles, this course examines how financial information is assembled and presented according to the Uniform Systems Accounts for hospitality enterprises. The primary emphasis of the course is on analytical and decision-making uses of financial information, including such topics as cost behavior, leverage, cost-volume-profit analysis, contribution-margin pricing, and budgeting. The course concludes with a review of hotel operating forms, including franchising and management contracts and assessing their impact on financial performance and risk. 4 cr. Offered Fall & Spring.",
+        "prerequisites": "CAS MA 119, SHA HF 210 or  QST AC 221, SHA HF 220, and SHA HF 270"
+    },
+    {
+        "course_code": "SHA HF 314",
+        "course_title": "Hospitality Market Feasibility and Valuation",
+        "description": "Undergraduate Prerequisites: SHA HF 210, SHA HF 220, SHA HF 260, and SHA HF 270 This course provides an introduction to and detailed instruction regarding the hotel market and feasibility research process including hands-on preparation of a feasibility analysis for a proposed hotel development. The course will consist of a series of lectures and possible guest lectures regarding the fundamental aspects of hotel feasibility analysis. Students will learn about and then put into the practice the analytical techniques presented, building to completion of a full feasibility analysis in a team fashion which will be presented at the end of the semester both in written and oral form. 2 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 210, SHA HF 220, SHA HF 260, and SHA HF 270"
+    },
+    {
+        "course_code": "SHA HF 315",
+        "course_title": "Fundamentals of a Hotel Real Estate Deal",
+        "description": "Undergraduate Prerequisites: SHA HF 210, SHA HF 220, SHA HF 260, and SHA HF 270 The purpose of this course is to introduce the students to the various aspects of a Hotel Real Estate Deal. The target audience is any student who aspires to have a career involving the ownership, development and/or financing of lodging assets. 2 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 210, SHA HF 220, SHA HF 260, and SHA HF 270"
+    },
+    {
+        "course_code": "SHA HF 322",
+        "course_title": "Hospitality Design",
+        "description": "Undergraduate Prerequisites: SHA HF 220 and SHA HF 270 This course is designed to introduce students to the basic principles of facility planning, layout and design for hotel, dining, kitchen, public and service areas. At the completion of the course, students will be able to explain the design process common to all hospitality facilities, as well as the activities that occur during each phase of this process. 4 cr. Offered Fall.",
+        "prerequisites": "SHA HF 220 and SHA HF 270"
+    },
+    {
+        "course_code": "SHA HF 329",
+        "course_title": "Intro to Fine Wines",
+        "description": "This course, open to all BU students, offers a complete, introductory-level overview of the fine wines of the world. The purpose of the course is fourfold: 1. Ensure a thorough knowledge of the world's major wine-producing regions, their noble grape varietals, their classification systems and quality control laws. 2. Build basic understanding of the wine-making process, its variations and its pitfalls, thus aiding in the ability to appreciate a great wine and spot a flawed one. 3. Illustrate techniques of quantified sensorial assessment of wine so that the student may perform the buying function knowledgeably and confidently. 4. Acquire an understanding of how to perform job functions related to wine, such as writing a wine list, in the hospitality industry. Effective Fall 2019, this course fulfills a single unit in the following BU Hub area: Global Citizenship and Intercultural Literacy. 2 cr. Offered Fall semester. BU Hub Learn More Global Citizenship and Intercultural Literacy",
+        "BU_Hub": [
+            "Global Citizenship and Intercultural Literacy"
+        ]
+    },
+    {
+        "course_code": "SHA HF 360",
+        "course_title": "Hospitality Sales Management",
+        "description": "Undergraduate Prerequisites: SHA HF 260 A dynamic, interactive and intensive hospitality sales management course which prepares you with fundamental skills on how to create, build and execute an effective sales strategy. This course combines theory with practical application and includes working with source markets and partners, identifying and qualifying prospects, building rapport, overcoming objections for creative proposals and successful closing techniques. 2 cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 260"
+    },
+    {
+        "course_code": "SHA HF 361",
+        "course_title": "Advanced Consumer Behavior in Hospitality",
+        "description": "Undergraduate Prerequisites: SHA HF 260 In order to create and deliver value for customers, marketers must develop a deep understanding of how their consumers make decisions when purchasing and using their services. In this course those consumer behavior theories will be explored that are most applicable to different types of hospitality purchase experiences. 4 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 260"
+    },
+    {
+        "course_code": "SHA HF 367",
+        "course_title": "Hospitality Distribution Channel Management",
+        "description": "Undergraduate Prerequisites: SHA HF 260 This course provides an overview for managing marketing distribution strategies. In the hotel business today there is a complex network of legacy, online and mobile channels. Distribution is the intersection of revenue management and marketing strategy. A focus is placed on presenting and analyzing the current distribution channels within the travel/hospitality industry. Various approaches to marketing distribution management are evaluated and tested. Topics include the scope of hospitality marketing distribution; economics of the major hospitality distribution segments/channels; managing hospitality distribution strategies; In the end, this course will provide the framework for how and where a hotel should be distributed to maximize revenue and profit. 2 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 260"
+    },
+    {
+        "course_code": "SHA HF 368",
+        "course_title": "Digital Marketing Strategies for the Hospitality Industry",
+        "description": "Undergraduate Prerequisites: SHA HF 260 This is an advanced course in hospitality marketing focused on the variety of digital marketing tools currently available for hotels and restaurants. The course is designed to follow HSMAI's CHDM (Certified Hospitality Digital Marketing) study guide to meet the industry standard for digital marketing professionals. There will be a review of the most revenue-generating internet marketing techniques and finally booking mechanisms and distribution channels. The course includes concentration on content marketing, social media and developing social campaigns; OTAs and understanding the distribution channels; as well as online reputation management and the technical tools used to monitor results. The class will be structured as a lecture; you must bring your laptops for all in class exercises. 4 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 260"
+    },
+    {
+        "course_code": "SHA HF 370",
+        "course_title": "Revenue Management and Technology",
+        "description": "Undergraduate Prerequisites: SHA HF 270 This course provides an advanced overview of the revenue management function in hotels. Revenue management is an integrated approach to maximizing revenue that includes capacity analysis, demand forecasting, variable pricing, and distribution technology. 2 cr. Offered Fall & Spring.",
+        "prerequisites": "SHA HF 270"
+    },
+    {
+        "course_code": "SHA HF 375",
+        "course_title": "Meetings & Conventions",
+        "description": "Undergraduate Prerequisites: SHA HF 220 This course provides an introduction to the methods and techniques utilized in planning, organizing, promoting and delivering of businesses and social events, and the role events play in generating a tourist and business market. Information will be presented that will allow the student to gain general knowledge of planning events. Specifically, the Meetings, Incentives, Conventions and Exhibitions (MICE) sector of the events will be examined in depth from a professional planner's perspective. Information presented will allow the student to gain knowledge of planning events from the role of a meeting professional and assist in preparing for the Certified Meeting Professional (CMP) or Certified Special Events Professional (CSEP) exam. 4 cr. Offered Fall & Spring.",
+        "prerequisites": "SHA HF 220"
+    },
+    {
+        "course_code": "SHA HF 376",
+        "course_title": "Special Event Planning and Operations",
+        "description": "Undergraduate Prerequisites: SHA HF 375 This course is designed to provide an introduction to the principles of special event management. The planning, development, and management of corporate and social events, entertainment events and festivals will be the focus of the study. Specific topics will include the foundations of planning an event, including conceptualization, event design, working with vendors/contracts, budgeting, marketing strategy, revenue generation through tickets and sponsorship, and event technology. 4 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 375"
+    },
+    {
+        "course_code": "SHA HF 382",
+        "course_title": "Hospitality Communications Practicum",
+        "description": "Undergraduate Prerequisites: SHA HF 100 This course is intended as a 'practicum' in hospitality communications. This course is open to sophomores, juniors and seniors. The focus is on the development of those communication skills that are critical to being effective managers. There will be readings on communication, but the majority of the course will focus on skills development. Each week students will be required to deliver presentations to the class. These presentations will be videotaped and critiqued. By the end of this course students will be much more comfortable, clear, and confident speakers in any situation. Fail/Pass. Effective Fall 2018, this course fulfills a single unit in the following BU Hub area: Oral and/or Signed Communication. 2 cr. Offered Fall & Spring. BU Hub Learn More Oral and/or Signed Communication",
+        "prerequisites": "SHA HF 100",
+        "BU_Hub": [
+            "Oral and/or Signed Communication"
+        ]
+    },
+    {
+        "course_code": "SHA HF 410",
+        "course_title": "Finance for the Hospitality Industry",
+        "description": "Undergraduate Prerequisites: SHA HF 310 and (CAS MA 113 or CAS MA 115) Studies the techniques financial managers and external analysts employ to value the firm and its assets. Topics include financial statement analysis, taxation, discounted cash flow, stock and bond valuation, cost of capital, and capital budgeting. The techniques of discounted cash flow and the command of taxation principles developed in the course are applied to commercial real estate analysis, including hospitality properties. 4 cr., Offered Fall & Spring.",
+        "prerequisites": "SHA HF 310 and (CAS MA 113 or CAS MA 115)"
+    },
+    {
+        "course_code": "SHA HF 415",
+        "course_title": "Hospitality Asset Management",
+        "description": "Undergraduate Prerequisites: SHA HF 310 This course is designed to introduce the student to a rapidly growing area of the lodging industry, namely, asset management. The course will define what asset management is today and examin the skills required to be a successful asset manager. There will be a special focus on the benefits to the hotel owner of hiring an asset manager and the role of the asset manager in representing the owner in deliberations about annual operating budgets and capital plans with the hotel management company. In order to effectuate this understanding, the course will also concentrate on hotel investment analysis including market analysis, benchmarking and pro forma preparation, and developing an asset management plan. 2 cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 310"
+    },
+    {
+        "course_code": "SHA HF 416",
+        "course_title": "Franchise, Management, and Independents in Hospitality",
+        "description": "Undergraduate Prerequisites: SHA HF 220 and SHA HF 270 The Franchise, Management, and Independents in Hospitality class emphasizes the benefits and limitations of the franchise and management company relationship for hotels and restaurants. It addresses the key elements and financial implications associated with franchise and management agreements. A broad discussion highlighting the brand selection process will provide insight to the value creation. The course will introduce students to the recent trends in soft branding, and what it means to be a boutique and/or independent hotel or restaurant. Students will learn the competitive advantages and disadvantages of being independent. The course will address the restaurant franchise industry including quick serve (QSR), full service (FSR) and fast casual. Students will gain understanding of the value created by the restaurant franchise's processes and operations. Other topics will include brand and franchise development and outsourcing.",
+        "prerequisites": "SHA HF 220 and SHA HF 270"
+    },
+    {
+        "course_code": "SHA HF 430",
+        "course_title": "Advanced Wine Study",
+        "description": "Undergraduate Prerequisites: SHA HF 100 and SHA HF 329 Students must be 21 to take this course. This course offers a thorough study of wine tasting, wine and food pairing and wine and food event planning. Each class features a blind tasting of selected wines along with discussion on the principles of critical tasting and wine and food pairing. The objectives of the course are to fully prepare those entering the hospitality industry to purchase wines and to recommend them to customers with various types of food. 2 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 100 and SHA HF 329"
+    },
+    {
+        "course_code": "SHA HF 432",
+        "course_title": "Hospitality Leadership",
+        "description": "Undergraduate Prerequisites: SHA HF 231, Seniors only This course will focus on leadership and management for the hospitality industry. Using a leadership continuum as a framework, we will explore several different levels of leadership, from a \"traditional\" leadership role as the head of a major corporation to the more personal aspect of self- leadership. Several different leadership models will be analyzed and applied to the hospitality industry. Leadership tools will be explored - hands-on, realistic tools that you will be able to use in your personal lives, while in school and in the business world upon graduation. 4 cr. Offered Fall & Spring.",
+        "prerequisites": "SHA HF 231, Seniors only"
+    },
+    {
+        "course_code": "SHA HF 440",
+        "course_title": "International Experience",
+        "description": "Undergraduate Prerequisites: SHA HF 140 This requirement is fulfilled by studying and/or working abroad. Students typically enroll in a BU Study Abroad program, another approved study abroad program or attaining an internship abroad. Students are able to satisfy this requirement in other ways but must discuss how with SHA Career Services. All students are required to have their HF440 activities pre-approved by SHA Career Services prior to completing work/activities. 0 cr. Offered Fall & Spring.",
+        "prerequisites": "SHA HF 140"
+    },
+    {
+        "course_code": "SHA HF 460",
+        "course_title": "Strategic Mktg",
+        "description": "Undergraduate Prerequisites: SHA HF 100, and (SHA HF 260 or QST MK 323), and (CAS WR 150/151/152 or CGS RH 104); First Year Writing Seminar (e.g., WR 100 or WR 120) This course description is currently under construction. BU Hub Learn More Creativity/InnovationWriting-Intensive Course",
+        "prerequisites": "SHA HF 100, and (SHA HF 260 or QST MK 323), and (CAS WR 150/151/152 or CGS RH 104); First Year Writing Seminar (e.g., WR 100 or WR 120)",
+        "BU_Hub": [
+            "Creativity/Innovation",
+            "Writing-Intensive Course"
+        ]
+    },
+    {
+        "course_code": "SHA HF 478",
+        "course_title": "Hospitality Analytical Problem Solving",
+        "description": "Undergraduate Prerequisites: SHA HF 260, SHA HF 310, and (CAS MA 113 or CAS MA 115) This course will provide students with fundamental knowledge of business analytics and information visualization combined with extensive opportunities for developing hands-on skills for applying hospitality business analytics to managerial decision-making. Students will learn fundamental mathematical and statistical concepts as well as statistical modeling techniques to solve operational, financial and marketing issues that hospitality organizations face today. Students will also learn how to leverage widely used Microsoft Excel to build out data-driven insights and craft story telling visualization around the data-driven insights. 4 cr. Offered Fall & Spring.",
+        "prerequisites": "SHA HF 260, SHA HF 310, and (CAS MA 113 or CAS MA 115)"
+    },
+    {
+        "course_code": "SHA HF 619",
+        "course_title": "Hotel Development and Deal Making",
+        "description": "The Hotel Development and Deal Making course will cover the basics of real estate development: Site acquisition, required approvals, zoning, and financial strategies. As it pertains to hotel assets, the course will help students navigate the intricacies of negotiating franchise agreements and management contracts that are necessary for any development deal. This course will also promote sound real estate investment and financial decisions via the knowledge of theory and strategies and their application in the real world. We will learn about potential sources of debt and equity financing through the study of the four quadrants of capital, study about the factors that affect an investor's buy/sell/reposition decisions, and delve into the complex relationship between the equity participant (owner), the lender, the operating company, and the brand."
+    },
+    {
+        "course_code": "SHA HF 621",
+        "course_title": "Advanced Food and Beverage Management",
+        "description": "This course is meant to provide students at the Master's level a broad and practical understanding of foodservice operations for the new world in which we are living. Foodservice encompasses much more than restaurants, though special attention will be paid to various types of restaurants to understand how they operate and what they may look like in the future. Students should expect to gain insight into both strategic and day-to-day operational management, as well as a high-level discovery of the various segments of foodservice."
+    },
+    {
+        "course_code": "SHA HF 631",
+        "course_title": "Advanced Hr",
+        "description": "This course description is currently under construction."
+    },
+    {
+        "course_code": "SHA HF 667",
+        "course_title": "Fundamentals of Digital Content Development",
+        "description": "This course teaches students to use digital tools to create messaging, story lines, and infographics for print, online, audio and video content marketing. Use of Adobe Photoshop, Premier Pro, In Design and other elements of the Creative Suite will be used to design materials for real lodging and food and beverage clients."
+    },
+    {
+        "course_code": "SHA HF 679",
+        "course_title": "Financial Reporting and Analysis",
+        "description": "This course will teach students the process of examining a company's performance in the context of its industry and economic environment in order to arrive at a decision or recommendation. The central focus of financial analysis is financial statement analysis and interpretation of financial disclosures on evaluating the company's performance to improve risk assessment and decision-making. Students will be able to understand company's future risk performance by analyzing the financial statements."
+    },
+    {
+        "course_code": "SHA HF 688",
+        "course_title": "Operations and Service Consulting",
+        "description": "This course teaches students techniques on how to run a lean operation in hospitality while building up their analytical skill-set. Students will learn advanced methods to measure labor productivity, throughput and service levels in hospitality operations."
+    },
+    {
+        "course_code": "SHA HF 701",
+        "course_title": "Hospitality Operations Analysis",
+        "description": "This course investigates the distinctive operational characteristics, operational mechanics, technology and management practices of hotels and restaurants. Throughout the course, students will be provided with advanced techniques and tools to analyze and improve operational capabilities of a hospitality organization. Analysis of daily operations with a focus on developing viable solutions to problems is emphasized. The first half of the course will focus on the theoretical principles and operational tactics of lodging operations and on how the departments within the rooms division of an individual hotel operate. Students will explore the managerial aspects of hotel reservation, the front office, housekeeping, engineering and security. The second half of the course will focus on principal operating problems facing managers in the restaurant industry. Topics such as concept development, pricing strategies and restaurant revenue management, menu performance analysis, cost control, labor management and customer service processes are addressed. 4 cr. Offered Summer II."
+    },
+    {
+        "course_code": "SHA HF 702",
+        "course_title": "Innovation and Disruption in Hospitality",
+        "description": "In today's suddenly uncertain world, disruptions are the norm and are mandating that we adapt our organizations and our individual selves. To stay ahead and remain resilient, businesses must ready themselves for crisis and change management. They must also excel at problem-solving and identifying opportunities to innovate effectively. Using case studies, media coverage and other content, this course will examine some of the most dramatic changes encountered by the hospitality industry, from the onset and impact of Uber and Airbnb to the current COVID-19 pandemic. Hospitality leaders need to know how to be the disruptors in the industry, as well as learn how to survive and capitalize when the industry is disrupted. In both situations, effective innovation is key to staying relevant and succeeding. Each week the class will meet to discuss different challenges that businesses have faced and approaches that entrepreneurs have taken to manage them. Examples will focus on both proactive change (addressing disruptions through innovation and early detection), as well as reactive change (leading in times of crisis). This course is offered in the FALL term in lieu of the required HF 701 for students entering with extensive industry experience. It is also offered in the Spring as an elective for those who have completed HF 701 and for those pursuing the Innovation & Entrepreneurship concentration."
+    },
+    {
+        "course_code": "SHA HF 707",
+        "course_title": "Hospitality Entrepreneurship",
+        "description": "This course is intended to be a capstone experience for students seeking to understand hospitality entrepreneurship and innovation as a professional business system. Student teams will create, develop and design a concise Pro Forma Business Plan for a start-up non-profit or profit-driven hospitality enterprise. At the end of the semester teams will make a competitive presentation integrating the principles and skills mastered in previous coursework to a panel of successful hospitality entrepreneurs. 4 cr. Offered Fall Semester."
+    },
+    {
+        "course_code": "SHA HF 710",
+        "course_title": "Finance for the Hospitality Industry",
+        "description": "Studies the techniques financial managers and external analysts employ to value the firm and its assets. Topics include financial statement analysis, taxation, discounted cash flow, stock and bond valuation, cost of capital, and capital budgeting. The techniques of discounted cash flow and the command of taxation principles developed in the course are applied to commercial real estate analysis, including hospitality properties. 4 cr. Offered Fall & Spring."
+    },
+    {
+        "course_code": "SHA HF 711",
+        "course_title": "Hospitality Financial Management",
+        "description": "Accounting has been described as the language of business. Consequently, the ability to speak and understand this language is a fundamental competency for practitioners of business. A central aspect of accounting is the composition of financial statements that depict the underlying economic reality of the firm being operated. This course is intended to introduce fundamental elements that are used to compose these financial reports. Specifically, course content will include an examination and quantitative analysis of the balance sheet, income statement and statement of cash flows from both a conceptual and pragmatic perspective. How these statements are both composed and relate to business planning, control and decision making in hospitality enterprise will be a central topic. 4 cr. Offered Summer II."
+    },
+    {
+        "course_code": "SHA HF 712",
+        "course_title": "Managerial Accounting for the Hospitality Industry",
+        "description": "After a review of financial-accounting principles, this course examines how financial information is assembled and presented according to the Uniform Systems Accounts for hospitality enterprises. The primary emphasis of the course is on analytical and decision-making uses of financial information, including such topics as cost behavior, leverage, cost-volume-profit analysis, contribution-margin pricing, and budgeting. The course concludes with a review of hotel operating forms, including franchising and management contracts and assessing their impact on financial performance and risk. 4 cr. Offered Fall Semester."
+    },
+    {
+        "course_code": "SHA HF 714",
+        "course_title": "Hospitality Market Feasibility and Valuation",
+        "description": "Graduate Prerequisites: Graduate students only. This course provides an introduction to and detailed instruction regarding the hotel market and feasibility research process including hands-on preparation of a feasibility analysis for a proposed hotel development. The course will consist of a series of lectures and possible guest lectures regarding the fundamental aspects of hotel feasibility analysis. Students will learn about and then put into the practice the analytical techniques presented, building to completion of a full feasibility analysis in a team fashion which will be presented at the end of the semester both in written and oral form. 2 cr. Offered Spring Semester.",
+        "prerequisites": "Graduate students only."
+    },
+    {
+        "course_code": "SHA HF 715",
+        "course_title": "Fundamentals of a Hotel Real Estate Deal",
+        "description": "The purpose of this course is to introduce the students to the various aspects of a Hotel Real Estate Deal. The target audience is any student who aspires to have a career involving the ownership, development and/or financing of lodging assets. 2 cr. Offered Spring Semester."
+    },
+    {
+        "course_code": "SHA HF 716",
+        "course_title": "Hospitality Investing",
+        "description": "This introductory investment analysis course is designed to teach students how to craft a stock rating (buy or sell) for a restaurant, hotel, gaming, cruise or other leisure/hospitality publicly traded company. The emphasis will be on (1) combining your own experiences with these service providers (2) using financial statement analysis, modeling, valuation techniques to put some numbers behind the ultimate proposed investment rating and (3) combing through financial press, annual reports, quarterly earnings call transcripts and research reports to come up with a differentiated view. 2 cr. Offered Spring Semester."
+    },
+    {
+        "course_code": "SHA HF 717",
+        "course_title": "Hospitality Real Estate Finance and Feasibility",
+        "description": "This course is designed to facilitate a working knowledge of hospitality properties as financial and real estate assets. This course provides detailed instructions on the hotel market and feasibility research process and will help students understand how to analyse hotel markets across the world, identify and evaluate key forces that impact the performance of hotel markets and the hotels within them, determine the right hotel product for each site and market and forecast future performance for it. The course will also provide a grounding in the basic concepts of real estate finance and how they are used by stakeholders to make hospitality investment decisions. The course culminates with the preparation of a feasibility study and a valuation for a proposed hospitality development."
+    },
+    {
+        "course_code": "SHA HF 721",
+        "course_title": "Advanced Food and Beverage Management",
+        "description": "This intermediate-level course is designed to complete a student's foundation in food and beverage management. Critical issues in the food service industry are explored in depth. Course content will vary. Analysis of daily operations with a focus on developing viable solutions to problems is emphasized. The course content is grouped into six thematic competency clusters. 4 cr. Offered Spring Semester."
+    },
+    {
+        "course_code": "SHA HF 722",
+        "course_title": "Hospitality Design",
+        "description": "This course is designed to introduce students to the basic principles of facility planning, layout and design for hotel, dining, kitchen, public and service areas. At the completion of the course, students will be able to explain the design process common to all hospitality facilities, as well as the activities that occur during each phase of this process. 4 cr. Offered Fall Semester."
+    },
+    {
+        "course_code": "SHA HF 723",
+        "course_title": "Case Studies in Corporate Restaurant Management",
+        "description": "Graduate Prerequisites: SHA HF 701, SHA HF 711, and SHA HF 762 Future restaurant leaders must possess many qualities and deal with challenging and complex business situations. This case study based elective course will allow graduate level students to apply the principles of leadership, analysis, and planning that they have learned in their prior required coursework to issues in corporate and multi-unit restaurant management and operations. The planning process for new restaurant ventures is explored. Students will critically analyze financing plans for new concept development. New ways of assessing restaurant success and failure are examined. An emphasis is placed on the use of qualitative and quantitative tools to analyze restaurant performance. Advantages and disadvantages of various market entry strategies are discussed. Opportunities for restaurant organizations to expand globally are addressed. 4.cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 701, SHA HF 711, and SHA HF 762"
+    },
+    {
+        "course_code": "SHA HF 733",
+        "course_title": "Hospitality Organizational Leadership",
+        "description": "Graduate Prerequisites: SHA HF 701 The hospitality / travel and tourism industry employs over 284 million people, representing about 1 in 11 jobs worldwide. In such a labor intensive field, leading and managing people are two critical elements for operating successful organizations. This course will focus on leadership and management for the hospitality industry. Using a leadership continuum as a framework, we will explore several different levels of leadership, from a traditional leadership role as the head of a major corporation, team leadership and the personal aspect of self-leadership. Several different leadership models will be analyzed and applied to the hospitality industry. An emphasis on creating organizational culture through human resource strategies and how to manage change effectively will be two critical components of the course. The course explores key aspects of human resources functions such as employment law, employee recruitment & selection, compensation and benefits, labor relations, diversity and managing hospitality human resources in a global environment. 4 cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 701"
+    },
+    {
+        "course_code": "SHA HF 740",
+        "course_title": "Graduate Internship in Hospitality Management",
+        "description": "The Graduate Internship allows students to gain industry experience. The zero credit internship involves 400 hours of relevant hospitality work experience and is required for all graduate students. Practical learning opportunities are available through our various hospitality partnerships, including hotels, restaurants and other placements. 0 cr. Offered Spring Semester."
+    },
+    {
+        "course_code": "SHA HF 750",
+        "course_title": "Snr Housing",
+        "description": null
+    },
+    {
+        "course_code": "SHA HF 752",
+        "course_title": "Monitoring the Resident Journey Experience",
+        "description": "This class explores the topic of seniors housing and care for America's growing middle-income senior cohort, a group that may have different preferences and demands from more traditional seniors housing offerings. Students learn the best practices for customer experience and transfer those guest services skills from the hospitality sector into the senior living and care sector."
+    },
+    {
+        "course_code": "SHA HF 754",
+        "course_title": "Senior Living Operations",
+        "description": "Providing an overview of the senior living sector and the process of aging, the course focuses on operations with detailed analysis of the day-to-day, expense controls and management styles, revenue enhancement techniques, staffing protocols, marketing strategies, and safety procedures. Students learn the fundamentals of all senior care services available at senior living properties. The program also includes a field trip to a nearby senior living facility where students can get first-hand knowledge of senior living operations."
+    },
+    {
+        "course_code": "SHA HF 760",
+        "course_title": "Hospitality Sales Management",
+        "description": "A dynamic, interactive and intensive hospitality sales management course which prepares you with fundamental skills on how to create, build and execute an effective sales strategy. This course combines theory with practical application and includes working with source markets and partners, identifying and qualifying prospects, building rapport, overcoming objections for creative proposals and successful closing techniques. 2 cr. Offered Fall Semester."
+    },
+    {
+        "course_code": "SHA HF 761",
+        "course_title": "Advanced Consumer Behavior in Hospitality",
+        "description": "In order to create and deliver value for customers, marketers must develop a deep understanding of how their consumers make decisions when purchasing and using their services. In this course those consumer behavior theories will be explored that are most applicable to different types of hospitality purchase experiences. 4 cr. Offered Spring Semester."
+    },
+    {
+        "course_code": "SHA HF 762",
+        "course_title": "Hospitality Branding and Marketing",
+        "description": "This course offers participants innovative and practical approaches for addressing strategic marketing challenges to improve revenue, profit, and customer loyalty. Using case studies from hotels, restaurants, and hospitality firms worldwide, and referencing cutting-edge research, students will learn the latest applications of strategic thinking and analysis to marketing challenges facing the hospitality industry. They will understand strategic-marketing concepts and principles, and apply the ideas, concepts, and principles to develop innovative and profitable strategies. Recent evolutions in globalization, technology and sustainability necessitate that modern marketing be reconstituted to move into the digital age. Given the role and critical importance of a digital mindset in operating today's businesses, the course will also leverage case studies and real-world examples to help students master the \"new marketing\" on a strategic and tactical level. In so doing, the course will enable students to explore the design and implementation of marketing programs and activities to build, measure, and manage brand equity for a sustainable competitive advantage. 4 cr. Offered Summer II."
+    },
+    {
+        "course_code": "SHA HF 768",
+        "course_title": "Digital Marketing Strategies",
+        "description": "Graduate Prerequisites: SHA HF 701 and SHA HF 762 This is an advanced course in hospitality marketing focused on the variety of digital marketing tools currently available for hotels and restaurants. Internet marketing for our industry has evolved drastically in the past 10 years. With more than 50% of people researching travel online, an understanding and appreciation of how hotels and restaurants use digital marketing initiatives to reach their consumers is necessary to succeed in the industry. Knowing how to market through Facebook with boosted posts, run search engine marketing campaigns through Google AdWords, and geo-targeting market segments through online media advertising will enhance your marketing savvy and make you more marketable as you enter the job market in hospitality. Effective marketing for your hospitality asset today means taking the following steps: your website must be responsive and provide the most user friendly experience on the desktop as well as mobile and tablet devices; Search Engine Optimization and the technical coding and functionality to ensure your website also ranks high when web surfers conduct searches using key words. Additionally, there will be a review of the most revenue-generating internet marketing techniques and finally booking mechanisms and distribution channels. 4 cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 701 and SHA HF 762"
+    },
+    {
+        "course_code": "SHA HF 771",
+        "course_title": "Hospitality Revenue Management Strategies",
+        "description": "Graduate Prerequisites: SHA HF 701 and SHA HF 711 Hotel Revenue Management focuses on how a hotel can produce the highest amount of \"profitable\" revenue given its fixed capacity and variable demand. The fundamental principles and concepts of hospitality revenue management that include pricing and discounting strategies, overbooking practices, segmentation, competitive analysis, demand and revenue forecasting, performance analysis will be discussed throughout the term. To expand revenue management streams outside of the hotel rooms, Total Revenue Management strategies are explored. Non-traditional hospitality segments discussed include space optimization and cruise revenue management. 4 cr. Offered Spring Semester.",
+        "prerequisites": "SHA HF 701 and SHA HF 711"
+    },
+    {
+        "course_code": "SHA HF 775",
+        "course_title": "Meetings & Conventions",
+        "description": "This course provides an introduction to the methods and techniques utilized in planning, organizing, promoting and delivering of businesses and social events, and the role events play in generating a tourist and business market. Information will be presented that will allow the student to gain general knowledge of planning events. Specifically, the Meetings, Incentives, Conventions and Exhibitions (MICE) sector of the events will be examined in depth from a professional planner's perspective. Information presented will allow the student to gain knowledge of planning events from the role of a meeting professional and assist in preparing for the Certified Meeting Professional (CMP) or Certified Special Events Professional (CSEP) exam. 4 cr. Offered Fall & Spring."
+    },
+    {
+        "course_code": "SHA HF 777",
+        "course_title": "Meeting Planning and Special Events Management",
+        "description": "Graduate Prerequisites: SHA HF 701 This course is designed to provide an introduction to the principles of special event management. The planning, development, management, and implementation of festivals, entertainment events, corporate and other events will be the focus of study. Specific topics will include bid preparation, forecasting project revenues, estimating budgetary goals, contract negotiations, event-marketing strategy, event related case studies, event technology, public and corporate sponsorship. Fundraising techniques will discussed. In addition to operational and logistical needs of various types of events, insurance and risk management concerns associated with these events are addressed. The course emphasizes the principles and concepts of etiquette and protocol. Proven event execution tactics are introduced to ensure event return on investment. 4 cr. Offered Fall Semester.",
+        "prerequisites": "SHA HF 701"
+    },
+    {
+        "course_code": "SHA HF 778",
+        "course_title": "Hospitality Analytics",
+        "description": "Graduate Prerequisites: SHA HF 701, SHA HF 711, and SHA HF 762 This course will provide students with fundamental knowledge of business analytics and information visualization combined with extensive opportunities for developing hands-on skills for applying hospitality business analytics to managerial decision-making. Students will learn fundamental mathematical and statistical concepts as well as statistical modeling techniques to solve operational, financial and marketing issues that hospitality organizations face today. Students will also learn how to leverage widely used Microsoft Excel to build out data-driven insights and craft story telling visualization around the data-driven insights. 4 cr. Offered Fall semester.",
+        "prerequisites": "SHA HF 701, SHA HF 711, and SHA HF 762"
+    },
+    {
+        "course_code": "SHA HF 781",
+        "course_title": "Rest Business",
+        "description": "This course description is currently under construction."
+    },
+    {
+        "course_code": "SHA HF 782",
+        "course_title": "Hospitality Communications Practicum",
+        "description": "This course is intended as a 'practicum' in hospitality communications. This course is open to sophomores, juniors and seniors. The focus is on the development of those communication skills that are critical to being effective managers. There will be readings on communication, but the majority of the course will focus on skills development. Each week students will be required to deliver presentations to the class. These presentations will be videotaped and critiqued. By the end of this course students will be much more comfortable, clear, and confident speakers in any situation. 2 cr. Offered Fall & Spring."
+    },
+    {
+        "course_code": "SHA HF 790",
+        "course_title": "Independent Study Projects",
+        "description": "With permission from the Program Director, students may engage in independent business or research projects. Independent study projects may be used to satisfy the requirement of elective courses.(1-4 credits). On Demand."
+    },
+    {
+        "course_code": "SHA HF 792",
+        "course_title": "Grad Ind Study",
+        "description": null
+    },
+    {
+        "course_code": "SHA HF 801",
+        "course_title": "Hospitality Research Methods",
+        "description": "Students enrolled in the course will develop an understanding of the process of conducting social science research, especially as it pertains to the hospitality industry. This course will introduce students to the scientific method of inquiry and explain important considerations pertaining to quantitative, qualitative, and mixed-method approaches. Students will develop skills in conducting literature searches, reading empirical research studies, and applying these methods. Students leave the course better able to understand and critically examine published research findings as well as generate their own research questions and design robust research interventions to provide answers to these inquiries."
+    }
+]
