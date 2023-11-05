@@ -3,7 +3,84 @@
         "course_code": "CDS DS 100",
         "course_title": "Data Speak Louder Than Words",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "White",
+                    "Location": "LAW AUD",
+                    "Schedule": "MW 2:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "White",
+                    "Location": "CDS 164",
+                    "Schedule": "F 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "White",
+                    "Location": "CDS 164",
+                    "Schedule": "F 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "White",
+                    "Location": "KCB 103",
+                    "Schedule": "F 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "White",
+                    "Location": "SAR 300",
+                    "Schedule": "F 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A6",
+                    "Instructor": "White",
+                    "Location": "CDS 262",
+                    "Schedule": "F 1:25 pm-2:15 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Peterson",
+                    "Location": "SCI 113",
+                    "Schedule": "TR 3:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Peterson",
+                    "Location": "CDS 164",
+                    "Schedule": "F 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Peterson",
+                    "Location": "CDS 164",
+                    "Schedule": "F 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Peterson",
+                    "Location": "CAS 208",
+                    "Schedule": "F 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Peterson",
+                    "Location": "FLR 121",
+                    "Schedule": "F 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A6",
+                    "Instructor": "Peterson",
+                    "Location": "FLR 121",
+                    "Schedule": "F 1:25 pm-2:15 pm"
+                }
+            ]
+        },
         "description": "This course introduces students to three perspectives that are fundamental to their ability to reason with data: critical thinking, inferential thinking, and computational thinking. Through data modeling and visualization, students will construct and communicate arguments that are rooted in data. The course expects only basic computer knowledge and teaches concepts and skills in computer programming (Python), linear regression, and statistical inference. The course delves into dilemmas surrounding data analysis, such as balancing individual privacy and social utility, and prepares students for the data driven world all around us. Students with interests from politics to sports, finance to journalism, entrepreneurship to smart cities, etc., can use the knowledge of data science they gain in this class to enhance those interests. Not to mention a grounding for students who want to pursue the field of data science itself. Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry 1, Digital/Multimedia Expression, Research and Information Literacy. BU Hub Learn More Social Inquiry IDigital/Multimedia ExpressionResearch and Information Literacy",
         "BU_Hub": [
             "Social Inquiry I",
@@ -15,7 +92,102 @@
         "course_code": "CDS DS 110",
         "course_title": "Introduction to Data Science with Python",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Gold",
+                    "Location": "SCI 113",
+                    "Schedule": "MWF 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Gold",
+                    "Location": "CDS 164",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Gold",
+                    "Location": "CAS 220",
+                    "Schedule": "W 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Gold",
+                    "Location": "CAS 220",
+                    "Schedule": "W 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Gold",
+                    "Location": "CDS 262",
+                    "Schedule": "W 4:40 pm-5:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Gold",
+                    "Location": "CGS 505",
+                    "Schedule": "MWF 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Gold",
+                    "Location": "FLR 122",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Gold",
+                    "Location": "FLR 122",
+                    "Schedule": "W 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Gold",
+                    "Location": "CGS 123",
+                    "Schedule": "W 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Gold",
+                    "Location": "CGS 123",
+                    "Schedule": "W 4:40 pm-5:30 pm"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Gold",
+                    "Location": "CGS 505",
+                    "Schedule": "MWF 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Gold",
+                    "Location": "SOC B59",
+                    "Schedule": "W 8:00 am-8:50 am"
+                },
+                {
+                    "Section": "B3",
+                    "Instructor": "Gold",
+                    "Location": "SOC B59",
+                    "Schedule": "W 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "B4",
+                    "Instructor": "Gold",
+                    "Location": "FLR 122",
+                    "Schedule": "W 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "B5",
+                    "Instructor": "Gold",
+                    "Location": "FLR 122",
+                    "Schedule": "W 11:15 am-12:05 pm"
+                }
+            ]
+        },
         "description": "CDS DS 110 is the first in a two-course sequence (leading to CDS DS 210) that builds students' competence in computing techniques central to data science. Students will use Python to explore fundamental CS concepts and processes used in data science with a focus on descriptive data analysis, including data structures, development of functions and more advanced recursion, object- oriented programming, data processing and data visualization. Numpy, pandas, and matplotlib will be used to analyze real-world data. Prior experience with Python is not required. BU Hub Learn More Quantitative Reasoning ITeamwork/Collaboration",
         "BU_Hub": [
             "Quantitative Reasoning I",
@@ -26,7 +198,102 @@
         "course_code": "CDS DS 120",
         "course_title": "Foundations of Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Chatterjee",
+                    "Location": "SCI 113",
+                    "Schedule": "MWF 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Chatterjee",
+                    "Location": "CDS 164",
+                    "Schedule": "M 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Chatterjee",
+                    "Location": "CDS 164",
+                    "Schedule": "M 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Chatterjee",
+                    "Location": "CDS 164",
+                    "Schedule": "M 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Chatterjee",
+                    "Location": "KCB 103",
+                    "Schedule": "M 2:30 pm-3:20 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Chatterjee",
+                    "Location": "PHO 211",
+                    "Schedule": "MWF 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Chatterjee",
+                    "Location": "CDS 164",
+                    "Schedule": "M 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Chatterjee",
+                    "Location": "CDS 164",
+                    "Schedule": "M 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Chatterjee",
+                    "Location": "CAS 320",
+                    "Schedule": "M 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Chatterjee",
+                    "Location": "CAS 320",
+                    "Schedule": "M 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Wobbes",
+                    "Location": "CGS 505",
+                    "Schedule": "MWF 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Wobbes",
+                    "Location": "CDS 164",
+                    "Schedule": "T 9:30 am-10:45 am"
+                },
+                {
+                    "Section": "B3",
+                    "Instructor": "Wobbes",
+                    "Location": "CDS 164",
+                    "Schedule": "T 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "B4",
+                    "Instructor": "Wobbes",
+                    "Location": "CDS 164",
+                    "Schedule": "T 12:30 pm-1:45 pm"
+                },
+                {
+                    "Section": "B5",
+                    "Instructor": "Wobbes",
+                    "Location": "CAS B27",
+                    "Schedule": "T 2:00 pm-3:15 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: = Undergraduate Corequisites: CDSDS100 OR CDSDS110. The first in a 3-course sequence (with CDS DS 121 and CDS DS 122) that introduces students to theoretical foundations of Data Science. Introduction to key concepts from Calculus (differentiation and integration), Probability (discrete and continuous random variables) and Linear Algebra (vector spaces, matrices, and linear systems). The course links mathematics and computational thinking through problem sets requiring students to answer mathematically- posed questions using computation. BU Hub Learn More Quantitative Reasoning I",
         "prerequisites": "=",
         "BU_Hub": [
@@ -37,7 +304,72 @@
         "course_code": "CDS DS 121",
         "course_title": "Foundations of Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Varia",
+                    "Location": "WED 130",
+                    "Schedule": "TR 1:30 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Varia",
+                    "Location": "BRB 121",
+                    "Schedule": "M 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Varia",
+                    "Location": "CDS 264",
+                    "Schedule": "M 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Varia",
+                    "Location": "CDS 262",
+                    "Schedule": "M 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Varia",
+                    "Location": "CDS 164",
+                    "Schedule": "M 9:05 am-9:55 am"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "McDonald",
+                    "Location": "CGS 505",
+                    "Schedule": "MWF 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "McDonald",
+                    "Location": "STH B20",
+                    "Schedule": "M 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "McDonald",
+                    "Location": "STH B20",
+                    "Schedule": "M 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "McDonald",
+                    "Location": "MCS B33",
+                    "Schedule": "M 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "McDonald",
+                    "Location": "MCS B33",
+                    "Schedule": "M 4:40 pm-5:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS120 OR equivalent. Undergraduate Corequisites: CDSDS110 OR equivalent. CDS 121 is the second in the three-course sequence (CDS DS 120, 121, 122) that introduces students to theoretical foundations of Data Science. DS 121 covers an introduction to key concepts from Linear Algebra (vector space, independence, orthogonality and matrix factorizations). The DS theme running through the course is exploratory data analysis, enabling a better understanding of the data at hand. The course will link mathematical concepts with computational thinking, specifically through the use of problem sets that require students to answer mathematically-posed questions using computation. Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning I, Digital/Multimedia Expression, Critical Thinking. BU Hub Learn More Quantitative Reasoning IDigital/Multimedia ExpressionCritical Thinking",
         "prerequisites": "CDSDS120 OR equivalent.",
         "BU_Hub": [
@@ -50,7 +382,66 @@
         "course_code": "CDS DS 122",
         "course_title": "Foundations of Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Przytycki",
+                    "Location": "SAR 101",
+                    "Schedule": "MWF 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Przytycki",
+                    "Location": "CAS 315",
+                    "Schedule": "M 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Przytycki",
+                    "Location": "CAS 315",
+                    "Schedule": "M 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Przytycki",
+                    "Location": "CAS 315",
+                    "Schedule": "M 3:35 pm-4:25 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Wobbes",
+                    "Location": "CGS 505",
+                    "Schedule": "MWF 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Wobbes",
+                    "Location": "FLR 121",
+                    "Schedule": "M 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Wobbes",
+                    "Location": "EPC 206",
+                    "Schedule": "M 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Wobbes",
+                    "Location": "EPC 206",
+                    "Schedule": "M 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Wobbes",
+                    "Location": "EPC 206",
+                    "Schedule": "M 4:40 pm-5:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS120 OR equivalent CDS DS 122 is the third in a three-course sequence (with CDS DS 120 and CDS DS 121) that introduces students to theoretical foundations of Data Science. DS 122 covers topics in probability (including common probability distributions, conditional probability, independence, Bayes Theorem, prior and posterior distributions, sampling, and the central limit theorem), statistics (including maximum likelihood), basic numerical optimization (including gradient descent methods), and topics in calculus (including sequences and series). Knowledge of a programming language (such as Python) is expected. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Critical Thinking. BU Hub Learn More Quantitative Reasoning IICritical Thinking",
         "prerequisites": "CDSDS120 OR equivalent",
         "BU_Hub": [
@@ -62,21 +453,44 @@
         "course_code": "CDS DS 199",
         "course_title": "CDS Workshops (1 credit)",
         "Credits": "1",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "DS 199 workshops provide students the opportunity to develop elective skills and competencies in computing and data science. Each workshop focuses on a subset of skills and competencies necessary for students to engage in particular projects and real-world experiences. Participation in projects pursued within specific co- Labs may require completion of specific workshops. DS 199 workshops will count for 1 credit."
     },
     {
         "course_code": "CDS DS 200",
         "course_title": "Undergraduate Internship in Data Science",
         "Credits": "1",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ]
+        },
         "description": "This course is intended for undergraduate students interested in completing a summer internship in a data science industry company. For international students, this course is required to use CPT. This course comes with a tuition fee and is not repeatable. Please note that this course does not count toward major requirements, but the 1 credit received from the course does count toward the graduation requirement of 128 credits. A 2.0 GPA is required to participate in DS 200. This course may be repeated for credit with CDS approval."
     },
     {
         "course_code": "CDS DS 209",
         "course_title": "Spark! Software Engineering Immersion",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Students will be introduced to all concepts required to work on a modern web development project. This course is intentionally taught with very little prerequisite knowledge to enable students to begin learning these skills earlier in their college path. Students begin by learning basic skills required to build a functioning web application. During the second half of the course, students will be allocated to teams and provided a choice of projects to develop over the course of the semester. Students will submit their final application as their final project on the last day of classes. Effective Fall 2023, this course fulfills a single unit in each of the following BU Hub areas: Oral and/or Signed Communication, Digital/Multimedia Expression, Teamwork/Collaboration. BU Hub Learn More Oral and/or Signed CommunicationDigital/Multimedia ExpressionTeamwork/Collaboration",
         "BU_Hub": [
             "Oral and/or Signed Communication",
@@ -88,7 +502,102 @@
         "course_code": "CDS DS 210",
         "course_title": "Programming for Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Kontothanass",
+                    "Location": "CGS 511",
+                    "Schedule": "MWF 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Kontothanass",
+                    "Location": "CGS 323",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Kontothanass",
+                    "Location": "CAS 228",
+                    "Schedule": "W 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Kontothanass",
+                    "Location": "CGS 521",
+                    "Schedule": "W 3:35 pm-4:35 pm"
+                },
+                {
+                    "Section": "A6",
+                    "Instructor": "Kontothanass",
+                    "Location": "IEC B10",
+                    "Schedule": "W 4:40 pm-5:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Kontothanass",
+                    "Location": "PHO 211",
+                    "Schedule": "MWF 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Kontothanass",
+                    "Location": "PRB 146",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Kontothanass",
+                    "Location": "PSY 212",
+                    "Schedule": "W 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Kontothanass",
+                    "Location": "FLR 122",
+                    "Schedule": "W 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Kontothanass",
+                    "Location": "EOP 262",
+                    "Schedule": "W 4:40 pm-5:30 pm"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Chator",
+                    "Location": "WED 130",
+                    "Schedule": "MWF 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Chator",
+                    "Location": "FLR 122",
+                    "Schedule": "T 9:30 am-10:45 am"
+                },
+                {
+                    "Section": "B3",
+                    "Instructor": "Chator",
+                    "Location": "FLR 122",
+                    "Schedule": "T 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "B4",
+                    "Instructor": "Chator",
+                    "Location": "FLR 122",
+                    "Schedule": "T 12:30 pm-1:45 pm"
+                },
+                {
+                    "Section": "B5",
+                    "Instructor": "Chator",
+                    "Location": "FLR 122",
+                    "Schedule": "T 2:00 pm-3:15 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS110 OR equivalent Second course in the CDS DS-110-210 sequence. The first half of DS 210 continues the Python programming experience begun in DS-110, with enhanced focus on machine learning applications. The second half of the course introduces students to compiled programming languages, such as Rust, Go and Java, suitable for building large projects. Basic data structures (stacks, queues, priority queues, binary search trees), techniques for representing graphs, and basic graph algorithms will be explored. Concepts are developed and reinforced through consideration of data-driven inquiries in real-world settings. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Digital/Multimedia Expression, Creativity/Innovation. BU Hub Learn More Quantitative Reasoning IIDigital/Multimedia ExpressionCreativity/Innovation",
         "prerequisites": "CDSDS110 OR equivalent",
         "BU_Hub": [
@@ -101,14 +610,72 @@
         "course_code": "CDS DS 219",
         "course_title": "Software Engineering Career Prep Workshop",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "O'Malley",
+                    "Location": "CDS 164",
+                    "Schedule": "W 4:30 pm-6:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "O'Malley",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-8:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "O'Malley",
+                    "Location": "CDS 164",
+                    "Schedule": "W 4:30 pm-6:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "O'Malley",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "Taught by industry software veterans who serve as Spark! Engineers in Residence in CDS, this 2-credit course presents students with an unadulterated view of what they need to know as they take on software engineering projects, in preparation for careers as full-stack software/data engineers. From a brass tacks perspective, the course covers a number of tactical topics. The course covers the language of modern software development including patterns, source control, pull requests, open source, containerization, virtualization, and agile vs waterfall development methods. Additionally, the course introduces students to a few of the specialized professional software engineering and DevOps roles in industry."
     },
     {
         "course_code": "CDS DS 280",
         "course_title": "Spark! UX/UI Design",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Lyman",
+                    "Location": "CDS 164",
+                    "Schedule": "W 2:30 pm-4:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Lyman",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-8:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "CDS 164",
+                    "Schedule": "W 2:30 pm-4:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "User experience design (UX) and user interface engineering (UI) is the design of user interfaces and visualization for computer, information, and data products focusing on maximizing usability and the user experience. Students complete a series of activities within the UX Design toolkit developed by BU Spark! in collaboration with the Red Hat UX Design team. Course covers basic steps of the UX Design process, beginning with user insights and problem definition, empathy maps around personas, to user stories and lo- fidelity wireframes or story maps, to brand design and high fidelity wireframes. Effective Spring 2022, this course fulfills a single unit in the following BU Hub area: Digital/Multimedia Expression. BU Hub Learn More Digital/Multimedia Expression",
         "BU_Hub": [
             "Digital/Multimedia Expression"
@@ -118,14 +685,20 @@
         "course_code": "CDS DS 288",
         "course_title": "Spark! Workshop on Translating Computing & Data Science Concepts and Technologies   through Storytelling",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "This course will cover the basics of storytelling as applied to complex technology concepts, products, and outputs. Students will learn how to define the basic elements of a story and to craft compelling narratives using words, images, and other artifacts as applied to computing and data science topics and products."
     },
     {
         "course_code": "CDS DS 290",
         "course_title": "Spark! Civic Tech Research Design Workshop",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "This workshop focuses on how we learn from data. How do we identify and analyze relationships in our data? What conclusions can we draw from our data, and how applicable are our conclusions to broader contexts? How do we communicate effectively about our data and analyses? How can we be critical consumers of data and research, and identify issues and limitations in how data is used by data scientists, journalists, academics, and others? Effective Spring 2023, this course fulfills a single unit in the following BU Hub area: Research and Information Literacy. Students must register for both DS290 and DS292. BU Hub Learn More Research and Information Literacy",
         "BU_Hub": [
             "Research and Information Literacy"
@@ -135,7 +708,36 @@
         "course_code": "CDS DS 291",
         "course_title": "Spark! Exploring DEI in Tech",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A2",
+                    "Instructor": "Huang",
+                    "Location": "CDS B64A",
+                    "Schedule": "F 10:10 am-11:55 am"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Huang",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-8:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "SOC B59",
+                    "Schedule": "F 10:10 am-11:55 am"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "This workshop will explore topics related to diversity, equity, inclusion, and justice (DEIJ) in the technology sector. The course will implement the theory and practice of DEIJ across the tech sector. Students will start by gaining a foundational understanding of the concepts of identity, intersectionality, and inclusive dialogue. They will then apply this framework to understand issues of DEIJ in the tech sector in Academia and business, and the different technology domains from AI to hardware. The second part of the course will be focused on allyship and action and includes a final project where students will use an intersectional lens to assess a problem they are passionate about and develop solutions they believe can have impact. Through this course, students will learn how to engage in and facilitate impactful discussions about diversity, equity, inclusion and justice. Effective Spring 2022, this course fulfills a single unit in the following BU Hub area: The Individual in Community. BU Hub Learn More The Individual in Community",
         "BU_Hub": [
             "The Individual in Community"
@@ -145,7 +747,10 @@
         "course_code": "CDS DS 292",
         "course_title": "Spark! Civic Tech Toolkit Workshop",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Undergraduate Prerequisites: CDS DS 290. This workshop introduces students to a variety of data sources and methodologies applicable for studying questions around civic life in a variety of settings e.g. elections, housing, policing, economic development, and more. While we will primarily focus on data used in the United States (including U.S. Census data, voter files, and other public records), these skills are applicable to civic research globally. We will also learn how to conduct analysis from start (a vague question or assignment) to finish (a rigorous and careful analysis that acknowledges its limitations). This course is taught using both R and Python; students must possess the ability to manipulate and analyze data in one of these languages. This course fulfills a single unit in the following BU Hub area: The Individual in Community. BU Hub Learn More The Individual in Community",
         "prerequisites": "CDS DS 290.",
         "BU_Hub": [
@@ -156,14 +761,96 @@
         "course_code": "CDS DS 299",
         "course_title": "CDS Workshops (2 credits)",
         "Credits": "2",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Cranmer",
+                    "Location": "CDS 1424",
+                    "Schedule": "R 6:30 pm-9:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Cranmer",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-8:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "IEC B01",
+                    "Schedule": "R 3:30 pm-5:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "DS299 workshops provide students the opportunity to develop elective skills and competencies in computing and data science. Each workshop focuses on a subset of skills and competencies necessary for students to engage in particular projects and real-world experiences. Participation in projects pursued within specific co-Labs may require completion of specific workshops. See CDS website for Spring 2022 course information: https://www.bu.edu/cds-faculty/academics/undergraduate/courses/"
     },
     {
         "course_code": "CDS DS 310",
         "course_title": "Data Mechanics",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Seferlis",
+                    "Location": "STO B50",
+                    "Schedule": "TR 3:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Seferlis",
+                    "Location": "CDS 264",
+                    "Schedule": "R 9:30 am-10:45 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Seferlis",
+                    "Location": "CDS 164",
+                    "Schedule": "R 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A5",
+                    "Instructor": "Seferlis",
+                    "Location": "CDS 164",
+                    "Schedule": "R 12:30 pm-1:45 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Seferlis",
+                    "Location": "PHO 211",
+                    "Schedule": "TR 5:00 pm-6:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Seferlis",
+                    "Location": "FLR 121",
+                    "Schedule": "W 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Seferlis",
+                    "Location": "FLR 121",
+                    "Schedule": "W 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Seferlis",
+                    "Location": "KCB 103",
+                    "Schedule": "W 11:15 am-12:05 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS210 Course focused on developing students' capacity to design and implement data flows and the computational workflows meant to inform online/offline decision- making within large systems. Students explore the data science lifecycle, including question formulation, data collection and cleaning (data wrangling), exploratory data analysis and visualization, statistical inference and prediction, and decision-making. Relational (SQL) and MapReduce (noSQL) paradigms used to assemble analysis, optimization, and decision-making algorithms to track and scale data. Effective Fall 2023, this course fulfills a single unit in each of the following BU Hub areas Quantitative Reasoning II, Critical Thinking. BU Hub Learn More Quantitative Reasoning IICritical Thinking",
         "prerequisites": "CDSDS210",
         "BU_Hub": [
@@ -175,7 +862,48 @@
         "course_code": "CDS DS 320",
         "course_title": "Algorithms for Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Onak",
+                    "Location": "CGS 527",
+                    "Schedule": "TR 1:30 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Onak",
+                    "Location": "CAS 220",
+                    "Schedule": "M 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Onak",
+                    "Location": "CDS 263",
+                    "Schedule": "M 4:40 pm-5:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Goldner",
+                    "Location": "EPC 209",
+                    "Schedule": "TR 2:00 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Goldner",
+                    "Location": "FLR 121",
+                    "Schedule": "W 3:35 pm-4:25 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Goldner",
+                    "Location": "FLR 121",
+                    "Schedule": "W 4:40 pm-5:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS121 or equivalent AND CDSDS210 or equivalent This course covers the fundamental principles underlying the design and analysis of algorithms. We will walk through classical design methods, such as greedy algorithms, design and conquer, and dynamic programming, focusing on applications in data science. We will also study algorithmic methods more specific to data science and machine learning. The course places a particular emphasis on algorithmic efficiency, crucial with large and/or streaming data sets, for which multiple scans of data are infeasible, including the use of approximation and randomized algorithms. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Quantitative Reasoning II, Critical Thinking. BU Hub Learn More Quantitative Reasoning IICritical Thinking",
         "prerequisites": "CDSDS121 or equivalent AND CDSDS210 or equivalent",
         "BU_Hub": [
@@ -187,7 +915,60 @@
         "course_code": "CDS DS 340",
         "course_title": "Introduction to Machine Learning and AI",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Gold",
+                    "Location": "EPC 207",
+                    "Schedule": "TR 12:30 pm-1:45 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Gold",
+                    "Location": "CDS 264",
+                    "Schedule": "F 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Gold",
+                    "Location": "CDS 164",
+                    "Schedule": "F 2:30 pm-3:20 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Gold",
+                    "Location": "CDS 164",
+                    "Schedule": "F 3:35 pm-4:25 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Gold",
+                    "Location": "EPC 207",
+                    "Schedule": "TR 2:00 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Gold",
+                    "Location": "CDS 164",
+                    "Schedule": "R 9:30 am-10:45 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Gold",
+                    "Location": "CDS 164",
+                    "Schedule": "R 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A4",
+                    "Instructor": "Gold",
+                    "Location": "CDS 164",
+                    "Schedule": "R 12:30 pm-1:45 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS320 This course instructs students in key algorithms for classic artificial intelligence (AI) and modern machine learning (ML). Along the way, we seek to explore what kinds of problems these techniques are good and bad at, and build intuition for what makes a good search or machine learning problem. The primary assessment tools will be programming problem sets in Python, using Jupyter notebooks. Effective Fall 2022, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Quantitative Reasoning II, Critical Thinking. BU Hub Learn More Quantitative Reasoning IIEthical ReasoningCritical Thinking",
         "prerequisites": "CDSDS320",
         "BU_Hub": [
@@ -200,7 +981,42 @@
         "course_code": "CDS DS 380",
         "course_title": "Data, Society and Ethics",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Wildman",
+                    "Location": "CDS 1646",
+                    "Schedule": "M 4:30 pm-7:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Wildman",
+                    "Location": "CDS 263",
+                    "Schedule": "W 4:40 pm-5:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Wildman",
+                    "Location": "KCB 106",
+                    "Schedule": "TR 11:00 am-12:15 pm"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Wildman",
+                    "Location": "CDS 164",
+                    "Schedule": "W 12:20 pm-1:10 pm"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Wildman",
+                    "Location": "CDS 164",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS110 AND CDSDS320 This course develops students' ability to critically examine and question the interplay between data science and computational technologies on the one hand, and society and public policy on the other. Students will complete exercises to demonstrate their facility with key ethics tools and techniques, and analyze a series of real-world case studies presented alongside ethical tools and analyses that are useful both for staying alert to emerging ethical challenges and responding to them as they arise in both employment settings and everyday life. Effective Fall 2022, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Social Inquiry II, Research and Information Literacy. BU Hub Learn More Ethical ReasoningSocial Inquiry IIResearch and Information Literacy",
         "prerequisites": "CDSDS110 AND CDSDS320",
         "BU_Hub": [
@@ -213,14 +1029,39 @@
         "course_code": "CDS DS 381",
         "course_title": "Social Justice for Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Society is becoming increasingly digitized and datafied. Important decisions impacting criminal justice, housing, finance, labor, healthcare, and education are frequently determined by or are aided by artificially intelligent algorithmic technologies that are built and trained on large datasets. The rise in these technologies presents a challenge for social justice. Though often presented as neutral decision aids, these technologies often produce harmful predictions that operate to reinforce old legacies of racial, class, gender, and heteropatriarchal subordination. Datafication practices, computational techniques, legal doctrine, and policy play a key role in facilitating these disparate outcomes. This course will center on the complicated relationship between social justice and data science. The course will introduce students to the historical and current role of datafication and computation practices in social subordination. Students will leave the course having developed the skill set needed to identify and critically engage with the social justice challenges posed by these new technologies."
     },
     {
         "course_code": "CDS DS 453",
         "course_title": "Crypto for Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Varia",
+                    "Location": "EPC 204",
+                    "Schedule": "TR 9:30 am-10:45 am"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Varia",
+                    "Location": "CDS 164",
+                    "Schedule": "M 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Varia",
+                    "Location": "CDS 164",
+                    "Schedule": "M 11:15 am-12:05 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: DS-122 and DS-320, or equivalent. CDS DS 453 investigates techniques for performing trustworthy data analyses without a trusted party, and for conducting data science without data. The first half of the course investigates cryptocurrencies, the blockchain technology underpinning them, and the incentives for each participant, while the second half of the course focuses on privacy and anonymity using advanced tools from cryptography. The course concludes with a broader exploration into the power of conducting data science without being able to see the underlying data.",
         "prerequisites": "DS-122 and DS-320, or equivalent."
     },
@@ -228,14 +1069,27 @@
         "course_code": "CDS DS 457",
         "course_title": "Law for Algorithms",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Algorithms - those information-processing machines designed by humans - reach ever more deeply into our lives, creating alternate and sometimes enhanced manifestations of social and biological processes. In doing so, algorithms yield powerful levers for good and ill amidst a sea of unforeseen consequences. This crosscutting and interdisciplinary course investigates several aspects of algorithms and their impact on society and law. Specifically, the course connects concepts of proof, verifiability, privacy, security, trust, and randomness in computer science with legal concepts of autonomy, consent, governance, and liability, and examines interests at the evolving intersection of technology and the law. Grades will be based on a combination of short weekly reflection papers and a final project, to be completed collaboratively in mixed teams of law and computer and data science students. This course will include attendees from the computer science faculty, students and scholars based at Boston University and UC Berkeley."
     },
     {
         "course_code": "CDS DS 482",
         "course_title": "Responsible AI, Law, Ethics & Society",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Hod",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS100/CDSDS110 (Intro to data science OR equivalent) and CDSDS340 (intro to ML and AI OR equivalent) Permission is required to register for this course, please fill out an application form here - https://bit.ly/3sv70c3 Course page: https://learn.responsibly.ai/. Instructor: shlomi@bu.edu. This course addresses the deployment of Artificial Intelligence systems in multiple domains of society, and how this raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. Tackling these challenges calls for an interdisciplinary approach: deconstructing these issues by discipline and reconstructing with an integrated mindset, principles and practices between data science, ethics and law. This unique course will bring together students from either computing and data science disciplines or law and public policy disciplines from multiple institution. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Social Inquiry II, Ethical Reasoning, Teamwork/Collaboration. BU Hub Learn More Ethical ReasoningSocial Inquiry IITeamwork/Collaboration",
         "prerequisites": "CDSDS100/CDSDS110 (Intro to data science OR equivalent) and CDSDS340 (intro to ML and AI OR equivalent)",
         "BU_Hub": [
@@ -248,7 +1102,36 @@
         "course_code": "CDS DS 488",
         "course_title": "Spark! UX Design X-Lab Practicum",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Curran",
+                    "Location": "CDS 164",
+                    "Schedule": "R 6:30 pm-9:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Curran",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "COM 109",
+                    "Schedule": "TR 5:00 pm-6:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS280 OR equivalent This course gives students an opportunity to apply methods and practices of user experience design to real-world projects. Students work in teams to address needs of industry partners for applying interactive software to solve practical problems. Addresses all phases of the user experience design process from user research and discovery to design and validation, with a focus on mastering techniques and methods for learning about users, applying design thinking methods to conceive and iterate on solutions, and validating designs through user testing and feedback.",
         "prerequisites": "CDSDS280 OR equivalent"
     },
@@ -256,14 +1139,46 @@
         "course_code": "CDS DS 490",
         "course_title": "Directed Study in Computing & Data Sciences",
         "Credits": "Var",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Palmer",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "MB",
+                    "Instructor": "Betke",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "W1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ]
+        },
         "description": "Directed study in Computing & Data Sciences provides students the opportunity to complete directed research in a selected topic not covered in a regularly scheduled course under the supervision of a faculty member. Student and supervising faculty member arrange and document expectations and requirements. Examples include in-depth study of a special topic or independent research project."
     },
     {
         "course_code": "CDS DS 499",
         "course_title": "CDS Practicum Course",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Undergraduate Prerequisites: consent of instructor Courses engage students in interdisciplinary computing and data science projects. Projects may support CDS co-Labs, in partnership with internal and external organizations. Opportunities to connect computing and data sciences with domain-specific knowledge and expertise to advance co-Lab priorities.",
         "prerequisites": "consent of instructor"
     },
@@ -271,7 +1186,36 @@
         "course_code": "CDS DS 519",
         "course_title": "Spark! Software Engineering X-Lab Practicum",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Mishr",
+                    "Location": "CDS 164",
+                    "Schedule": "TR 5:00 pm-6:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Mishr",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-8:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Mishr",
+                    "Location": "CDS 164",
+                    "Schedule": "TR 5:00 pm-6:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Mishr",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS310 OR CASCS411 OR equivalent experience in software developmentand consent of instructor. Consent provided upon successful completion of pass/fail diagnostic test to assess student readiness fo This course offers students in computing disciplines the opportunity to apply their programming and system development skills by working on real-world projects provided from partnering organizations within and outside of BU, which are curated by Spark! The course offers a range of project options where students can improve their technical skills, while also gaining the soft skills necessary to deliver projects aligned to the partner's goals. These include teamwork and communications skills and software development processes. All students participating in the course are expected to complete a software engineering project including a final presentation to the partner organization. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Oral and/or Signed Communication, Teamwork/Collaboration. BU Hub Learn More Ethical ReasoningOral and/or Signed CommunicationTeamwork/Collaboration",
         "prerequisites": "CDSDS310 OR CASCS411 OR equivalent experience in software developmentand consent of instructor. Consent provided upon successful completion of pass/fail diagnostic test to assess student readiness fo",
         "BU_Hub": [
@@ -284,7 +1228,29 @@
         "course_code": "CDS DS 522",
         "course_title": "Stochastic Methods for Algorithms",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Huggins",
+                    "Location": "MCS B37",
+                    "Schedule": "TR 2:00 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Huggins",
+                    "Location": "CAS 222",
+                    "Schedule": "F 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Huggins",
+                    "Location": "CDS 265",
+                    "Schedule": "F 10:10 am-11:00 am"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Undergraduate Prerequisites: First-Year Writing Seminar (e.g., WR 120); CAS CS111, CDS DS110, ENG EK125, or equivalent; CAS MA225, CAS CS235, CDS DS122, or equivalent; CAS MA242, CAS CS132, CDS DS121, or equivalent; CAS MA581, CA Graduate Prerequisites: CAS CS111, CDS DS110, ENG EK125, or equivalent; CAS MA225, CAS CS235,CDS DS122, or equivalent; CAS MA242, CAS CS132, CDS DS121, or equivalent; CAS MA581, CAS CS237, ENG EK381, ENG EK500, or equivalen Application of stochastic process theory to design and analyze algorithms used in statistics and machine learning, especially Markov chain Monte Carlo and stochastic optimization methods. Emphasizes connecting theoretical results to practice through combination of proofs, numerical experiments, and expository writing. Effective Fall 2023, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Creativity/Innovation. BU Hub Learn More Creativity/InnovationWriting-Intensive Course",
         "prerequisites": "First-Year Writing Seminar (e.g., WR 120); CAS CS111, CDS DS110, ENG EK125, or equivalent; CAS MA225, CAS CS235, CDS DS122, or equivalent; CAS MA242, CAS CS132, CDS DS121, or equivalent; CAS MA581, CA",
         "BU_Hub": [
@@ -296,14 +1262,40 @@
         "course_code": "CDS DS 526",
         "course_title": "Critical Reading in Biological Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Cleary",
+                    "Location": "WED 406",
+                    "Schedule": "TR 1:30 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Cleary",
+                    "Location": "CGS 321",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "The goal of this course is to provide students with a framework, skills, and knowledge to critically evaluate research in biological data science. Biological research is rarely unequivocal in its findings; students will learn to systematically identify the claims advanced in research papers and evaluate whether each claim is established beyond a reasonable doubt by supporting evidence. We will examine papers that both meet and fail this test. In today's biology, to properly examine a paper in this way it is increasingly important to engage with the data provided as supporting evidence, and to critically examine the computational approach. Students will work with published data and computational tools. Further, students will learn to identify the ideology implicit in each paper, to understand how ideology shapes both the research questions and approach, and to imagine the same research under an alternative mindset. Classes will be split into lectures on background material for each paper and group discussions. Students will work in small groups to write a report on each paper. Each student will work on a final project to produce a critical review of a broader topic in the field. Pre-Reqs: CDSDS 120, 121, and 122 or equivalent; ENGBE 562 or equivalent or experience with computational biology"
     },
     {
         "course_code": "CDS DS 537",
         "course_title": "Data Science for Conservation Decisions",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Nolte",
+                    "Location": "CGS 115",
+                    "Schedule": "TR 2:00 pm-3:15 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Undergraduate Prerequisites: CASGE/EE 270 or equivalent; GE/EE 375 or equivalent; or consent of instructor. This course covers the application of quantitative methods to support conservation decisions. Ecosystem value mapping, systematic conservation planning, policy instrument design, rigorous impact evaluation, decision theory, data visualization. Implementations in state-of-the-art open-source software. Real-life case studies from the U.S. and abroad. Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Quantitative Reasoning II, Research and Information Literacy. BU Hub Learn More Quantitative Reasoning IIDigital/Multimedia ExpressionResearch and Information Literacy",
         "prerequisites": "CASGE/EE 270 or equivalent; GE/EE 375 or equivalent; or consent of instructor.",
         "BU_Hub": [
@@ -316,7 +1308,10 @@
         "course_code": "CDS DS 539",
         "course_title": "Spark! Data Science X-Lab Practicum",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Undergraduate Prerequisites: CASCS506 or equivalent preferred. CDSDSDS110 OR CASCS111 OR CASCS112 OR equivalent. CDSDS121 OR CASCS132 OR equivalent required. Or instructor consent which may involve pass/fail diagnostic test. This course offers students in computing disciplines the opportunity to apply their data science skills by working on real-world projects provided from partnering organizations within and outside of BU, which are curated by Spark! The course offers a range of project options where students can improve their technical skills, while also gaining the soft skills necessary to deliver projects aligned to the partner's goals. These include communications skills, collaborative work processes and an assessment of the ethical considerations of their work. All students participating in the course are expected to complete a data science project including a final presentation to the partner organization. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Digital/Multimedia Expression, Research and Information Literacy, Teamwork/Collaboration. BU Hub Learn More Digital/Multimedia ExpressionResearch and Information LiteracyTeamwork/Collaboration",
         "prerequisites": "CASCS506 or equivalent preferred. CDSDSDS110 OR CASCS111 OR CASCS112 OR equivalent. CDSDS121 OR CASCS132 OR equivalent required. Or instructor consent which may involve pass/fail diagnostic test.",
         "BU_Hub": [
@@ -329,14 +1324,53 @@
         "course_code": "CDS DS 541",
         "course_title": "Agent-Based Modeling of People, Health, and the Environment",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Bell",
+                    "Location": "FLR 123",
+                    "Schedule": "R 3:30 pm-6:15 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Agent-based models are an ideal tool for analyzing systems (cities, economies, road networks, forests) in which the outcomes of interest (illness rates, traffic problems, land use, violence) are shaped strongly by interactions among individual 'agents' (drivers, consumers, farmers, spouses) with each other and their environments. This course builds skills in the use of agent-based modeling using the NetLogo platform as a tool for analyzing complex human- environment problems. The course will emphasize the iterative model-building process -- forming research questions, building conceptual and then operational models, experimenting, and then refining -- to address current research problems. Students should expect to commit time outside of meetings to i) gaining comfort with NetLogo syntax; ii) reading current research in the areas of agent-based modeling and human environment and health problems; and iii) a team based approach to building models."
     },
     {
         "course_code": "CDS DS 549",
         "course_title": "Spark! Machine Learning X-Lab Practicum",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Gardos",
+                    "Location": "CDS 164",
+                    "Schedule": "TR 2:00 pm-3:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Gardos",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-8:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Gardos",
+                    "Location": "CDS 164",
+                    "Schedule": "TR 2:00 pm-3:15 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Gardos",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS340 OR CASCS542 OR CASCS505 OR CASCS585 OR consent of instructor. Consent may include the successful completion of a pass/fail diagnostic test that will assess student readiness to take the cours The Spark! Practicum offers students in computing disciplines the opportunity to apply their knowledge in algorithms, inferential analytics, and software development by working on real-world projects provided from partnering organizations within BU and from outside. The course offers a range of project options where students can improve their technical skills, while also gaining the soft skills necessary to deliver projects aligned to the partner's goals. These include teamwork and communications skills and software development processes. All students participating in the course are expected to complete a project focused on an application of inferential analytics or machine learning, including a final presentation to the partner organization. Effective Spring 2022, this course fulfills a single unit in each of the following BU Hub areas: Ethical Reasoning, Research and Information Literacy, Teamwork/Collaboration. BU Hub Learn More Ethical ReasoningResearch and Information LiteracyTeamwork/Collaboration",
         "prerequisites": "CDSDS340 OR CASCS542 OR CASCS505 OR CASCS585 OR consent of instructor. Consent may include the successful completion of a pass/fail diagnostic test that will assess student readiness to take the cours",
         "BU_Hub": [
@@ -349,14 +1383,58 @@
         "course_code": "CDS DS 561",
         "course_title": "Software Engineering Development on Modern Cloud Environments",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Kontothanass",
+                    "Location": "FLR 152",
+                    "Schedule": "MW 2:30 pm-3:45 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Kontothanass",
+                    "Location": "PRB 150",
+                    "Schedule": "T 11:15 am-12:05 pm"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Kontothanass",
+                    "Location": "CGS 315",
+                    "Schedule": "T 12:30 pm-1:45 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Most of today's organizations needing a technology solution look to satisfy their computing, storage and networking needs through one of the large public cloud providers. Unlike traditional environments where a company had to build its own infrastructure often at large time and monetary expense it can now rent what it needs at the click of a button. In this course we will provide hands on experience with one of the large public cloud platforms. In particular we will look into the different flavors of compute, storage and networking available, how best to use them to solve interesting problems, and how to do everything on a constrained budget. Students will get accounts and deliver project work on the public cloud while also learning some of the fundamental principles on how those different cloud systems work under the covers. It is recommended that students taking this class have learned the basic principles of Computer Systems such as those taught in DS210 and/or CS210."
     },
     {
         "course_code": "CDS DS 563",
         "course_title": "Algorithmic Techniques for Taming Big Data",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Onak",
+                    "Location": "CAS 220",
+                    "Schedule": "TR 3:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Onak",
+                    "Location": "IEC B07",
+                    "Schedule": "W 1:25 pm-2:15 pm"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Onak",
+                    "Location": "IEC B07",
+                    "Schedule": "W 2:30 pm-3:20 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS110 OR CASCS111 OR ENGEK125 OR equivalent; CDSDS320 OR CASCS330 OR ENGEC330 OR equivalent; CDSDS121 OR CASCS132 OR CASMA242 OR equivalent; CASMA115 OR CASCS327 OR ENGEK381 OR equivalent, OR conse Growing amounts of available data lead to significant challenges in processing them efficiently. In many cases, it is no longer possible to design feasible algorithms that can freely access the entire data set. Instead of that we often have to resort to techniques that allow for reducing the amount of data such as sampling, sketching, dimensionality reduction, and core sets. Apart from these approaches, the course will also explore scenarios in which large data sets are distributed across several machines or even geographical locations and the goal is to design efficient communication protocols or MapReduce algorithms. The course will include a final project and programming assignments in which we will explore the performance of our techniques when applied to publicly available data sets. BU Hub Learn More Quantitative Reasoning IICreativity/Innovation",
         "prerequisites": "CDSDS110 OR CASCS111 OR ENGEK125 OR equivalent; CDSDS320 OR CASCS330 OR ENGEC330 OR equivalent; CDSDS121 OR CASCS132 OR CASMA242 OR equivalent; CASMA115 OR CASCS327 OR ENGEK381 OR equivalent, OR conse",
         "BU_Hub": [
@@ -368,7 +1446,17 @@
         "course_code": "CDS DS 574",
         "course_title": "Algorithmic Mechanism Design",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Goldner",
+                    "Location": "CDS 1424",
+                    "Schedule": "TR 1:30 pm-3:15 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Undergraduate Prerequisites: CDSDS122, CDSDS320, and CASMA581 or instructor approval This course is an introduction to the interdisciplinary area of Algorithmic Mechanism Design: where computational perspectives are applied to economic problems, and economic techniques are brought to problems from computer science. We will explore a broad range of topics at the frontier of new research, starting with some of the fundamentals, such as welfare-maximizing auctions and types of Nash Equilibria. Throughout the semester, the class will also learn about prevalent topics such as (1) Data Science & Incentives, (2) Mechanism Design for Social Good, and (3) optimization and robustness in mechanism design.",
         "prerequisites": "CDSDS122, CDSDS320, and CASMA581 or instructor approval"
     },
@@ -376,21 +1464,57 @@
         "course_code": "CDS DS 587",
         "course_title": "Data Science in Human Contexts",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "McDonald",
+                    "Location": "FLR 121",
+                    "Schedule": "TR 11:00 am-12:15 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Where do statistical and computational insights lose historic social contexts? What are the impacts of datafication on individuals and communities? How do social and technical systems reify or challenge social hierarchies? Through a survey of academic literature, community-produced knowledge and coverage of technology in the popular press, this course will explore these themes as they relate to labor and automation, surveillance and the legal system, social media governance, and digital inclusion."
     },
     {
         "course_code": "CDS DS 590",
         "course_title": "CDS Research Initiation Seminar",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Duchin",
+                    "Location": "CDS 163",
+                    "Schedule": "M 12:20 pm-2:05 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "The first--year doctoral seminar is a required two--semester cohort--based course (4 credits) that must be taken during the first full academic year that a student enrolls in the PhD program in CDS. It is divided into two parts, each providing 2 credits. \"CDS Research Initiation Seminar\" is offered in the fall semester, and \"CDS Research Development Seminar\" is offered in the spring semester. The seminar serves three key purposes: 1. It introduces students to the scholarship of (and the rich set of research projects pursued by) the CDS faculty and their guests through colloquia pitched to a multidisciplinary audience. 2. It guides students through the challenging transition into the graduate program in CDS by introducing them to the variety of skills and capacities that are needed to succeed as a scholar. 3. It engenders a sense of community amongst the group of students entering the program as a cohort. 4 cr. Either sem."
     },
     {
         "course_code": "CDS DS 592",
         "course_title": "Special Topics in Mathematical and Computational Sciences",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "B1",
+                    "Instructor": "Duchin",
+                    "Location": "WED 406",
+                    "Schedule": "TR 11:00 am-12:15 pm"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Duchin",
+                    "Location": "FLR 121",
+                    "Schedule": "W 12:20 pm-1:10 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CASMA242 or equivalent AND CASMA581 or equivalent AND experience writing scientific code Spring 2022: Stochastic Processes for the Design and Analysis of Algorithms. Introduction to interplay between stochastic processes and algorithms used in statistics and machine learning. Covers core stochastic processes concepts and use to design and analyze algorithms for sampling and large-scale stochastic optimization. Strong emphasis on practical implications of results.",
         "prerequisites": "CASMA242 or equivalent AND CASMA581 or equivalent AND experience writing scientific code"
     },
@@ -398,7 +1522,36 @@
         "course_code": "CDS DS 594",
         "course_title": "Spark! Data Visualization X-Lab Practicum",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Chamberas",
+                    "Location": "CDS 264",
+                    "Schedule": "TR 3:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Chamberas",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "CDS 164",
+                    "Schedule": "TR 3:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "W 6:30 pm-7:30 pm"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDS DS 310 ; CDS DS 122 ; CDS DS 121. For 2023-2024. The Data Visualization X-Lab Practicum offers students an opportunity to learn data visualization skills through course and project-based work. Projects will be completed on a schedule that aligns with topics being covered in class and assignments. This course provides an accurate experience of solving real-world problems with data visualization, and the various tradeoffs that need to be considered. Whether it's how to efficiently use color and space, effectively understand the profile of a dataset or cautiously avoid bias, this course will provide students with a solid understanding of applicable data visualization practices.",
         "prerequisites": "CDS DS 310 ; CDS DS 122 ; CDS DS 121."
     },
@@ -406,63 +1559,162 @@
         "course_code": "CDS DS 595",
         "course_title": "Special Topics in Physical and Engineering Sciences",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Coverage of a specific topic in relation to physical and engineering sciences in data science. Topics vary semester to semester."
     },
     {
         "course_code": "CDS DS 596",
         "course_title": "Special Topics in Natural, Biological and Medical Sciences",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Cleary",
+                    "Location": "CGS 311",
+                    "Schedule": "TR 1:30 pm-3:15 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Cleary",
+                    "Location": "FLR 121",
+                    "Schedule": "W 11:15 am-12:05 pm"
+                }
+            ]
+        },
         "description": "Coverage of a specific topic in relation to natural, biological and medical sciences in data science. Topics vary semester to semester."
     },
     {
         "course_code": "CDS DS 597",
         "course_title": "Special Topics in Social and Behavioral Sciences",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Coverage of a specific topic in relation to social and behavioral sciences in data science. Topics vary semester to semester."
     },
     {
         "course_code": "CDS DS 598",
         "course_title": "Special Topics in Machine Learning",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Zhang",
+                    "Location": "EPC 204",
+                    "Schedule": "TR 12:30 pm-1:45 pm"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Zhang",
+                    "Location": "JSC 107",
+                    "Schedule": "W 9:05 am-9:55 am"
+                },
+                {
+                    "Section": "A3",
+                    "Instructor": "Zhang",
+                    "Location": "CDS B63",
+                    "Schedule": "W 10:10 am-11:00 am"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Staff",
+                    "Location": "CAS 208",
+                    "Schedule": "TR 3:30 pm-4:45 pm"
+                },
+                {
+                    "Section": "B2",
+                    "Instructor": "Staff",
+                    "Location": "CDS 164",
+                    "Schedule": "W 11:15 am-12:05 pm"
+                }
+            ]
+        },
         "description": "Topics vary semester to semester."
     },
     {
         "course_code": "CDS DS 599",
         "course_title": "CDS Research Development Seminar",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Duchin",
+                    "Location": "CGS 111A",
+                    "Schedule": "M 12:20 pm-2:05 pm"
+                }
+            ]
+        },
         "description": "The first--year doctoral seminar is a required two--semester cohort--based course (4 credits) that must be taken during the first full academic year that a student enrolls in the PhD program in CDS. It is divided into two parts, each providing 2 credits. \"CDS Research Initiation Seminar\" is offered in the fall semester, and \"CDS Research Development Seminar\" is offered in the spring semester. The seminar serves three key purposes: 1. It introduces students to the scholarship of (and the rich set of research projects pursued by) the CDS faculty and their guests through colloquia pitched to a multidisciplinary audience. 2. It guides students through the challenging transition into the graduate program in CDS by introducing them to the variety of skills and capacities that are needed to succeed as a scholar. 3. It engenders a sense of community amongst the group of students entering the program as a cohort. 4 cr. Either sem."
     },
     {
         "course_code": "CDS DS 644",
         "course_title": "Machine Learning for Business Analytics",
         "Credits": "3",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "The internet has become a ubiquitous channel for reaching consumers and gathering massive amounts of business-intelligence data. This course will teach students how to perform hands-on analytics on such datasets using modern machine learning techniques through series a lectures and in- class team exercises. Students will analyze data using the R programming language, derive actionable insights from the data, and present their \ufb01ndings. The goal of the course is to create an understanding of modern analytics methods, and the types of problems they can be applied to. The course is open to students with or without a technical background who are interested in analytics. While no prior programming experience is required, students will learn the fundamentals of the R programming language to build and evaluate predictive models."
     },
     {
         "course_code": "CDS DS 657",
         "course_title": "Law for Algorithms",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Varia",
+                    "Location": "ROOM",
+                    "Schedule": "R 2:10 pm-4:10 pm"
+                }
+            ]
+        },
         "description": "Algorithms - those information-processing machines designed by humans - reach ever more deeply into our lives, creating alternate and sometimes enhanced manifestations of social and biological processes. In doing so, algorithms yield powerful levers for good and ill amidst a sea of unforeseen consequences. This crosscutting and interdisciplinary course investigates several aspects of algorithms and their impact on society and law. Specifically, the course connects concepts of proof, verifiability, privacy, security, trust, and randomness in computer science with legal concepts of autonomy, consent, governance, and liability, and examines interests at the evolving intersection of technology and the law. Grades will be based on a combination of short weekly reflection papers and a final project, to be completed collaboratively in mixed teams of law and computer and data science students. This course will include attendees from the computer science faculty, students and scholars based at Boston University and UC Berkeley."
     },
     {
         "course_code": "CDS DS 680",
         "course_title": "AI Ethics",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A2",
+                    "Instructor": "Wildman",
+                    "Location": "CDS 1646",
+                    "Schedule": "W 2:30 pm-5:15 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "This course develops students' ability to critically examine and question the interplay between data science and computational technologies on the one hand, and society and public policy on the other. Students will complete exercises to demonstrate their facility with key ethics tools and techniques, and analyze a series of real-world case studies presented alongside ethical tools and analyses that are useful both for staying alert to emerging ethical challenges and responding to them as they arise in both employment settings and everyday life."
     },
     {
         "course_code": "CDS DS 682",
         "course_title": "Responsible AI, Law, Ethics & Society",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Hod",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ]
+        },
         "description": "Undergraduate Prerequisites: CDSDS100/CDSDS110 (Intro to data science OR equivalent) and CDSDS340 (intro to ML and AI OR equivalent) The deployment of Arti\ufb01cial Intelligence systems in multiple domains of society raises fundamental challenges and concerns, such as accountability, liability, fairness, transparency and privacy. The dynamic nature of AI systems requires a new set of skills informed by ethics, law, and policy to be applied throughout the life cycle of such systems: design, development and deployment. It also involves ongoing collaboration among data scientists, computer scientists, lawyers and ethicists. Tackling these challenges calls for an interdisciplinary approach: deconstructing these issues by discipline and reconstructing with an integrated mindset, principles and practices between data science, ethics and law. This course aims to do so by bringing together students with diverse disciplinary backgrounds into teams that work together on joint tasks in an intensive series of in- class sessions. These sessions will include lectures, discussions, and group work. This unique course will bring together students from multiple institutions, each contributing undergraduate students from either computing and data science disciplines or from law and public policy disciplines.",
         "prerequisites": "CDSDS100/CDSDS110 (Intro to data science OR equivalent) and CDSDS340 (intro to ML and AI OR equivalent)"
     },
@@ -470,35 +1722,170 @@
         "course_code": "CDS DS 690",
         "course_title": "Directed Study in Computing & Data Sciences",
         "Credits": "Var",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "Q1",
+                    "Instructor": "Crovella",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "T1",
+                    "Instructor": "Van Alstyne",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "T2",
+                    "Instructor": "Van Alstyne",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "ZW",
+                    "Instructor": "Wunderlich",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "Directed study in Computing & Data Sciences provides students the opportunity to complete directed research in a selected topic not covered in a regularly scheduled course under the supervision of a faculty member. Student and supervising faculty member arrange and document expectations and requirements. Examples include in-depth study of a special topic or independent research project."
     },
     {
         "course_code": "CDS DS 699",
         "course_title": "Advanced Topics in Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [],
+            "SPRG 2024": []
+        },
         "description": "Various advanced topics in data science that vary semester to semester. Please contact CDS for detailed descriptions."
     },
     {
         "course_code": "CDS DS 701",
         "course_title": "Tools for Data Science",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Crovella",
+                    "Location": "CDS 164",
+                    "Schedule": "TR 9:30 am-10:45 am"
+                },
+                {
+                    "Section": "A2",
+                    "Instructor": "Crovella",
+                    "Location": "FLR 121",
+                    "Schedule": "W 12:20 pm-1:10 pm"
+                }
+            ],
+            "SPRG 2024": []
+        },
         "description": "This is a new course to be designed specifically for the MS DS program. Students will take this course in their first semester. The goal of the course is to give students exposure to, and practical experience in, formulating data science questions -- particularly learning how to ask good questions in a specific domain. The course will also cover methods of obtaining data and common methods of processing data from a practical standpoint. It will be organized around a semester-long group project in which students are organized into teams and engage with \"clients\" who bring data science questions from a particular domain. The course will include a formal presentation of results at the end of the semester."
     },
     {
         "course_code": "CDS DS 990",
         "course_title": "Computing & Data Sciences Lab Rotation",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "AH",
+                    "Instructor": "Hagiu",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "B1",
+                    "Instructor": "Staff",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "BC",
+                    "Instructor": "Cleary",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "DW",
+                    "Instructor": "Wijaya",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "KG",
+                    "Instructor": "Goldner",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "MV",
+                    "Instructor": "Van Alstyne",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "SK",
+                    "Instructor": "Kiran",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "VK",
+                    "Instructor": "Kolachalama",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "C1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                },
+                {
+                    "Section": "G1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ]
+        },
         "description": "Experience with translational or applied research pursued in an industrial or laboratory setting is important for in-the-field graduate training. To provide this training, graduate students may complete a lab rotation that provides them with the opportunity to (1) explore lab settings and industrial collaborations that may be relevant to their thesis work; (2) experience the diversity of applied and in-the-field research styles in computing and data sciences; and (3) expand their external network of potential research collaborators. Before beginning an external lab rotation, students are expected to develop a plan for the scope and expected outcomes of the work to be pursued under the supervision of a named lab rotation advisor. This plan must be pre-approved by the student's academic, research, or thesis advisor in CDS. While desirable, it is neither required nor expected that the rotation will result in completion of a substantial body of work. Lab rotation credits will be noted on the student transcript as a 4-credit pass/fail independent study course numbered as DS-990."
     },
     {
         "course_code": "CDS DS 992",
         "course_title": "Computing & Data Sciences Research Rotation",
         "Credits": "4",
-        "Schedule": [],
+        "Schedule": {
+            "FALL 2023": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ],
+            "SPRG 2024": [
+                {
+                    "Section": "A1",
+                    "Instructor": "Staff",
+                    "Location": "ROOM",
+                    "Schedule": "ARR TBD-TBD"
+                }
+            ]
+        },
         "description": "Experience with diverse research group projects and styles are an essential part of graduate training. To provide this training, graduate students are expected to complete a series of research rotations that provide them with the opportunity to (1) explore research groups where they may pursue future thesis work; (2) experience the diversity of sub-disciplines and research styles in computing and data sciences; and (3) expand their network of potential research collaborators. Before beginning a rotation, students are expected to discuss their plans with the faculty leadership of the BU research group they would like to join, leading to a clear definition of the scope and expected outcomes of the work pursued under the supervision of a named rotation advisor. While desirable, it is neither required nor expected that the rotation will result in completion of a substantial body of work. Research rotation credits will be noted on the student transcript as a 4-credit independent study course numbered as DS-991 (for Fall semester rotations) or DS-992 (for Spring semester rotations)."
     }
 ]

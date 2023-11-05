@@ -15,26 +15,43 @@ def get_individual_course_data(course_code):
     credits_tag = soup.find('dt', string='Credits:')
     credits = credits_tag.find_next('dd').text.strip() if credits_tag and credits_tag.find_next('dd') else None
     
-    # Extract schedule information
-    schedule_data = []
-    schedule_sections = soup.find_all('h4', text=re.compile(r'(FALL|SPRG) \d+ Schedule'))
-    for section in schedule_sections:
-        schedule_block = section.find_next('table')
-        if schedule_block:
-            rows = schedule_block.find_all('tr')[1:]  # Exclude header row
-            for row in rows:
-                cells = row.find_all('td')
-                if len(cells) >= 5:  # Ensure there are at least 5 cells to prevent IndexError
-                    section_info = {
-                        'Section': cells[0].text.strip(),
-                        'Instructor': cells[1].text.strip(),
-                        'Location': cells[2].text.strip(),
-                        'Schedule': cells[3].text.strip(),
-                        'Notes': cells[4].text.strip()
-                    }
-                    schedule_data.append(section_info)
+    # Initialize schedule data structure with two keys for each term
+    schedule_data = {
+        "FALL 2023": [],
+        "SPRG 2024": []
+    }
+    
+    # Find all headers that contain "FALL 2023" or "SPRG 2024"
+    headers = soup.find_all('h4')
+    for header in headers:
+        term = None
+        if 'FALL 2023' in header.text:
+            term = 'FALL 2023'
+        elif 'SPRG 2024' in header.text:
+            term = 'SPRG 2024'
+        
+        if term:
+            # Find the table immediately following the header
+            schedule_table = header.find_next_sibling('table')
+            if schedule_table:
+                header_cells = schedule_table.find('tr').find_all('th')
+                # Exclude the "Notes" column
+                headers = [th.get_text(strip=True) for th in header_cells if "Notes" not in th.get_text(strip=True)]
+                rows = schedule_table.find_all('tr')[1:]  # Exclude header row
+                for row in rows:
+                    cells = row.find_all('td')[:-1]  # Exclude the "Notes" cell
+                    if len(cells) == len(headers):  # Match the number of headers
+                        section_info = {headers[i]: cell.get_text(strip=True) for i, cell in enumerate(cells)}
+                        schedule_data[term].append(section_info)
     
     return credits, schedule_data
+
+
+
+# ... rest of your code
+
+# Please replace your existing get_individual_course_data function with this updated version and run your script again.
+
 
 
 def get_course_data(url):
