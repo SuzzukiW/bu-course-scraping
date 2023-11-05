@@ -46,14 +46,6 @@ def get_individual_course_data(course_code):
     
     return credits, schedule_data
 
-
-
-# ... rest of your code
-
-# Please replace your existing get_individual_course_data function with this updated version and run your script again.
-
-
-
 def get_course_data(url):
     response = requests.get(url)
     response.raise_for_status()
