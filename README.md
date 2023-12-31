@@ -1,2 +1,1 @@
-# BU Course Scrapper
-The new version of the Scheduling API
+# BU Course Scraping Tool
